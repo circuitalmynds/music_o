@@ -1,179 +1,429 @@
 {
     "available_space": true,
-    "file_sizes": {
-        "Bob Dylan- Knockin' on Heaven's Door 'Original'-rnKbImRPhTE.mp4": 8.398099899291992,
-        "Conflict - Mighty and Superior-E3NSA1_bq1c.mp4": 5.722931861877441,
-        "Conflict - Neither Is This (1985)-Zna0JbP73To.mp4": 4.121254920959473,
-        "Control Machete - Desde la Tierra (Tercer Planeta)-KFj8jrPhT8Q.mp4": 5.796985626220703,
-        "Control Machete - Si Se\u00f1or-K_WIGqKS5dA.mp4": 18.304184913635254,
-        "Corazon De Oropel-qrkr_kZsXkU.mp4": 2.4020776748657227,
-        "Donde todo empieza-5dsNLay9t64.mp4": 8.81265640258789,
-        "Done Lost Your Good Thing Now Stevie Ray Vaughan 1981-d-KE0VwHJL4.mp4": 25.029298782348633,
-        "Joe Walsh - In the City --ljSuROOUxg8.mp4": 4.525147438049316,
-        "LOS CADETES DE LINARES  ' CARTA JUGADA '-8noa8uYf8lQ.mp4": 5.622616767883301,
-        "LOS CADETES DE LINARES - PESCADORES DE ENSENADA-nh9OBULqkeo.mp4": 12.441349983215332,
-        "LOS CADETES DE LINARES DE CHINA A BRAVO-DkaGBTfXlgg.mp4": 7.212554931640625,
-        "LOS CADETES DE LINARES POLONCHA POLKA-s9ClJLE16Rk.mp4": 2.9733028411865234,
-        "Los Cadetes De Linares - Libro Abierto-beFx-OdAYvc.mp4": 5.161118507385254,
-        "Los Cadetes de Linares -  La Tregedia de Rosita-64CgKjWNGq0.mp4": 4.639924049377441,
-        "Los Cadetes de Linares - Caballo Alazan Lucero-o_jq5tqUcVQ.mp4": 4.195695877075195,
-        "Los Cadetes de Linares - Cosas del Ayer-SEmq32R-H90.mp4": 3.4477033615112305,
-        "Los Cadetes de Linares - Dimas de Leon-RCEbiDJXARs.mp4": 3.4248533248901367,
-        "Los Cadetes de Linares - El Dia Que Te Cases-ifLkIv8f6Qw.mp4": 3.1886510848999023,
-        "Los Cadetes de Linares - El Hijo De Palenque (En Vivo)-vpweg2Qkodg.mp4": 4.413226127624512,
-        "Los Cadetes de Linares - El Pata de Palo-kwFqN1UalNI.mp4": 5.906045913696289,
-        "Los Cadetes de Linares - El Rogon-05v87MOw9L4.mp4": 3.314188003540039,
-        "Los Cadetes de Linares - En Un Tiempo-bQUbEXWO0Ys.mp4": 3.7317543029785156,
-        "Los Cadetes de Linares - Flor de Mis Primeros Anos-LYkXBMF-ciM.mp4": 2.258084297180176,
-        "Los Cadetes de Linares - Generoso y Carmelita-DacExV3ZQzI.mp4": 3.7289276123046875,
-        "Los Cadetes de Linares - La Tartana-FmxyPAo-djE.mp4": 3.2471494674682617,
-        "Los Cadetes de Linares - Los Dos Amigos (Video Oficial)-kfMhrwMXMZ4.mp4": 12.384980201721191,
-        "Los Cadetes de Linares - Mas Enamorado-h_h3TQBHrjw.mp4": 4.62924861907959,
-        "Los Cadetes de Linares - Mi Amigo-PcoUoCFX5x8.mp4": 3.634272575378418,
-        "Los Cadetes de Linares - Mi Morenita-hwl7PH_chpQ.mp4": 2.758096694946289,
-        "Los Cadetes de Linares - Mis Padres Perdi-3wxXF4fM6i8.mp4": 3.651071548461914,
-        "Los Cadetes de Linares - Muchachita-UhcM4AxutNY.mp4": 3.1123714447021484,
-        "Los Cadetes de Linares - Necio, Necio Morire-ICIE-2O23PY.mp4": 3.558760643005371,
-        "Los Cadetes de Linares - Pueblito-gRFy1uJelcQ.mp4": 4.506096839904785,
-        "Los Cadetes de Linares - Rezando Por Ella-zY6xjZhgu38.mp4": 2.7892303466796875,
-        "Los Cadetes de Linares - Silvano Garcia-ewvuI2uxxR8.mp4": 5.549002647399902,
-        "Los Cadetes de Linares - Una Pagina Mas (En Vivo Desde Houston, Tx)-AsBmCJNydco.mp4": 16.292468070983887,
-        "Los Cadetes de Linares-Don Crucito-8nYCyhU6as8.mp4": 3.485227584838867,
-        "Los Muertos de Cristo - Grita y No Pares de Gritar-2H2rZ9d9iM8.mp4": 5.752971649169922,
-        "Mounts and Mountains-WPxgaEeY2cg.mp4": 9.025530815124512,
-        "No Sufras Coraz\u00f3n - Julion Alvarez ( LETRA ) ESTRENO 2019-6X6CSKyYhRM.mp4": 8.283320426940918,
-        "O me voy o te vas -Los Hermanos Vega Jr-nM9JiuYRD98.mp4": 16.518668174743652,
-        "O, Neure Erri - Skalariak-Gzo0hBOFpRA.mp4": 5.844869613647461,
-        "ORACION PATERNAL Los Hermanos Vega-vBYNh_KLCn4.mp4": 9.50065803527832,
-        "Oasis - Wonderwall  (Official Video)-6hzrDeceEKc.mp4": 10.592942237854004,
-        "Ocean Rain-p_AsT8Ney4A.mp4": 9.960997581481934,
-        "Ocean-RaK7YtF3Erc.mp4": 4.2258806228637695,
-        "Oda A La Carretera-EXDPGyHjFP8.mp4": 5.102224349975586,
-        "Oh Baby Babe-bI8wmdk2emQ.mp4": 2.413145065307617,
-        "Oh Lonesome Me ~ Don Gibson (1957)-YqZjeubkfe8.mp4": 7.528803825378418,
-        "Oh, qu\u00e9 raro soy-46Phx2_ai6o.mp4": 3.2742996215820312,
-        "Ojala SilVio RodrigueZ-e7aSHFPcu_E.mp4": 4.301146507263184,
-        "Old Mary-w9M4kmzJzQY.mp4": 4.26698112487793,
-        "One Double One Oh! [Instrumental Version] _ Dick Dale & His Del-Tones-FP8QGZ2mH4A.mp4": 2.7435684204101562,
-        "One Hundred Years-V7kIB8HTE3k.mp4": 8.911809921264648,
-        "Only In Dreams-ha3QivnjbIU.mp4": 7.195640563964844,
-        "Orange Juice -  Rip It Up (Official Video)-UzPh89tD5pA.mp4": 17.676291465759277,
-        "Orquesta La Masacre - Dolor Esquina Miseria-YYGd2qamxCs.mp4": 11.917618751525879,
-        "Osama Bin Laden (La Cumbia)-EFQ85J8J5J4.mp4": 2.9810218811035156,
-        "Oscu - Money (Official Video)-0UgoLFvryBY.mp4": 8.946539878845215,
-        "Otro Militar-VK8Fkw1AwUI.mp4": 1.7473516464233398,
-        "Otro Ocupa Mi Lugar-za5c3kya6sY.mp4": 6.6355180740356445,
-        "Out Of Mind-xa8pdFuJ9Uc.mp4": 4.680954933166504,
-        "Out Of This World (Unreleased 2000)-8m5c_LiUNN8.mp4": 8.540506362915039,
-        "Ovejas Negras - Morena (Video Oficial)-qpnaDcFT_0Y.mp4": 14.87932300567627,
-        "Over Now-Id3h3eRiuOs.mp4": 17.487330436706543,
-        "Over The Rainbow ~ Jay White  (1958)-K_wgsZTVSdQ.mp4": 5.629228591918945,
-        "Ovi x Myke Towers x \u00d1engo Flow x Aleman - Las Leyendas Nunca Mueren [Official Video]-EpTw88ISIYU.mp4": 13.566529273986816,
-        "Owen Gray - Give Me A Little Sign (Subt\u00edtulos Espa\u00f1ol)-Kjw_F9CYRhI.mp4": 7.857898712158203,
-        "Oxidised Razor Masticator-EHAJ28xP6zM.mp4": 5.2108659744262695,
-        "Rockdrigo Gonz\u00e1lez - Perro en el perif\u00e9rico-dk6AeLRe2es.mp4": 10.894213676452637,
-        "Soldier Side - Intro-D_RCCXH3PPg.mp4": 0.9677820205688477,
-        "Solo quiero un xod\u00f3-mAqj-o9_Jnk.mp4": 6.441729545593262,
-        "Sons of Belial-RQwCUoTdcx0.mp4": 11.270183563232422,
-        "Sound Carrier by Wes Montgomery-TXuKKA_ik5Y.mp4": 12.631184577941895,
-        "Tom Odell - Concrete (Official Video)-bnZxWpwvFEk.mp4": 10.512703895568848,
-        "Tommy Torres - Tarde O Temprano (Video Oficial)-5E3CDn73T3U.mp4": 16.29493808746338,
-        "Tonino Carotone -   Pecatore-XKFPno_JBkg.mp4": 4.1787614822387695,
-        "Too Hip, Gotta Go - Stray Cats-ZtHqMtdutZc.mp4": 6.606255531311035,
-        "VOLANDO VOY _ CAMARON DE LA ISLA-7lOEsFE_iPk.mp4": 5.760104179382324,
-        "Yo S\u00e9 Que Te Acordar\u00e1s-sB2nWq5Paa4.mp4": 7.807736396789551,
-        "Young the Giant - Nothing's Over (In The Open)-jkp7mTd_VIU.mp4": 13.635187149047852,
-        "los cadetes de linares jesus malverde-jBBHquabwEA.mp4": 6.442350387573242,
-        "los herederos de nuevo leon - matame-r2KSo_DkhuA.mp4": 6.840442657470703
-    },
     "size_max": 25.029298782348633,
     "size_mean": 7.164935974847703,
     "size_min": 0.9677820205688477,
     "total_size": 601.854621887207,
     "video_list": {
-        "Bob Dylan- Knockin' on Heaven's Door 'Original'-rnKbImRPhTE.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Bob%20Dylan-%20Knockin'%20on%20Heaven's%20Door%20'Original'-rnKbImRPhTE.mp4?raw=true",
-        "Conflict - Mighty and Superior-E3NSA1_bq1c.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Conflict%20-%20Mighty%20and%20Superior-E3NSA1_bq1c.mp4?raw=true",
-        "Conflict - Neither Is This (1985)-Zna0JbP73To.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Conflict%20-%20Neither%20Is%20This%20(1985)-Zna0JbP73To.mp4?raw=true",
-        "Control Machete - Desde la Tierra (Tercer Planeta)-KFj8jrPhT8Q.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Control%20Machete%20-%20Desde%20la%20Tierra%20(Tercer%20Planeta)-KFj8jrPhT8Q.mp4?raw=true",
-        "Control Machete - Si Se\u00f1or-K_WIGqKS5dA.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Control%20Machete%20-%20Si%20Se%C3%B1or-K_WIGqKS5dA.mp4?raw=true",
-        "Corazon De Oropel-qrkr_kZsXkU.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Corazon%20De%20Oropel-qrkr_kZsXkU.mp4?raw=true",
-        "Donde todo empieza-5dsNLay9t64.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Donde%20todo%20empieza-5dsNLay9t64.mp4?raw=true",
-        "Done Lost Your Good Thing Now Stevie Ray Vaughan 1981-d-KE0VwHJL4.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Done%20Lost%20Your%20Good%20Thing%20Now%20Stevie%20Ray%20Vaughan%201981-d-KE0VwHJL4.mp4?raw=true",
-        "Joe Walsh - In the City --ljSuROOUxg8.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Joe%20Walsh%20-%20In%20the%20City%20--ljSuROOUxg8.mp4?raw=true",
-        "LOS CADETES DE LINARES  ' CARTA JUGADA '-8noa8uYf8lQ.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20%20'%20CARTA%20JUGADA%20'-8noa8uYf8lQ.mp4?raw=true",
-        "LOS CADETES DE LINARES - PESCADORES DE ENSENADA-nh9OBULqkeo.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20-%20PESCADORES%20DE%20ENSENADA-nh9OBULqkeo.mp4?raw=true",
-        "LOS CADETES DE LINARES DE CHINA A BRAVO-DkaGBTfXlgg.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20DE%20CHINA%20A%20BRAVO-DkaGBTfXlgg.mp4?raw=true",
-        "LOS CADETES DE LINARES POLONCHA POLKA-s9ClJLE16Rk.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20POLONCHA%20POLKA-s9ClJLE16Rk.mp4?raw=true",
-        "Los Cadetes De Linares - Libro Abierto-beFx-OdAYvc.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20De%20Linares%20-%20Libro%20Abierto-beFx-OdAYvc.mp4?raw=true",
-        "Los Cadetes de Linares -  La Tregedia de Rosita-64CgKjWNGq0.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20%20La%20Tregedia%20de%20Rosita-64CgKjWNGq0.mp4?raw=true",
-        "Los Cadetes de Linares - Caballo Alazan Lucero-o_jq5tqUcVQ.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Caballo%20Alazan%20Lucero-o_jq5tqUcVQ.mp4?raw=true",
-        "Los Cadetes de Linares - Cosas del Ayer-SEmq32R-H90.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Cosas%20del%20Ayer-SEmq32R-H90.mp4?raw=true",
-        "Los Cadetes de Linares - Dimas de Leon-RCEbiDJXARs.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Dimas%20de%20Leon-RCEbiDJXARs.mp4?raw=true",
-        "Los Cadetes de Linares - El Dia Que Te Cases-ifLkIv8f6Qw.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20El%20Dia%20Que%20Te%20Cases-ifLkIv8f6Qw.mp4?raw=true",
-        "Los Cadetes de Linares - El Hijo De Palenque (En Vivo)-vpweg2Qkodg.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20El%20Hijo%20De%20Palenque%20(En%20Vivo)-vpweg2Qkodg.mp4?raw=true",
-        "Los Cadetes de Linares - El Pata de Palo-kwFqN1UalNI.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20El%20Pata%20de%20Palo-kwFqN1UalNI.mp4?raw=true",
-        "Los Cadetes de Linares - El Rogon-05v87MOw9L4.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20El%20Rogon-05v87MOw9L4.mp4?raw=true",
-        "Los Cadetes de Linares - En Un Tiempo-bQUbEXWO0Ys.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20En%20Un%20Tiempo-bQUbEXWO0Ys.mp4?raw=true",
-        "Los Cadetes de Linares - Flor de Mis Primeros Anos-LYkXBMF-ciM.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Flor%20de%20Mis%20Primeros%20Anos-LYkXBMF-ciM.mp4?raw=true",
-        "Los Cadetes de Linares - Generoso y Carmelita-DacExV3ZQzI.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Generoso%20y%20Carmelita-DacExV3ZQzI.mp4?raw=true",
-        "Los Cadetes de Linares - La Tartana-FmxyPAo-djE.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20La%20Tartana-FmxyPAo-djE.mp4?raw=true",
-        "Los Cadetes de Linares - Los Dos Amigos (Video Oficial)-kfMhrwMXMZ4.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Los%20Dos%20Amigos%20(Video%20Oficial)-kfMhrwMXMZ4.mp4?raw=true",
-        "Los Cadetes de Linares - Mas Enamorado-h_h3TQBHrjw.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Mas%20Enamorado-h_h3TQBHrjw.mp4?raw=true",
-        "Los Cadetes de Linares - Mi Amigo-PcoUoCFX5x8.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Mi%20Amigo-PcoUoCFX5x8.mp4?raw=true",
-        "Los Cadetes de Linares - Mi Morenita-hwl7PH_chpQ.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Mi%20Morenita-hwl7PH_chpQ.mp4?raw=true",
-        "Los Cadetes de Linares - Mis Padres Perdi-3wxXF4fM6i8.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Mis%20Padres%20Perdi-3wxXF4fM6i8.mp4?raw=true",
-        "Los Cadetes de Linares - Muchachita-UhcM4AxutNY.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Muchachita-UhcM4AxutNY.mp4?raw=true",
-        "Los Cadetes de Linares - Necio, Necio Morire-ICIE-2O23PY.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Necio%2C%20Necio%20Morire-ICIE-2O23PY.mp4?raw=true",
-        "Los Cadetes de Linares - Pueblito-gRFy1uJelcQ.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Pueblito-gRFy1uJelcQ.mp4?raw=true",
-        "Los Cadetes de Linares - Rezando Por Ella-zY6xjZhgu38.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Rezando%20Por%20Ella-zY6xjZhgu38.mp4?raw=true",
-        "Los Cadetes de Linares - Silvano Garcia-ewvuI2uxxR8.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Silvano%20Garcia-ewvuI2uxxR8.mp4?raw=true",
-        "Los Cadetes de Linares - Una Pagina Mas (En Vivo Desde Houston, Tx)-AsBmCJNydco.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Una%20Pagina%20Mas%20(En%20Vivo%20Desde%20Houston%2C%20Tx)-AsBmCJNydco.mp4?raw=true",
-        "Los Cadetes de Linares-Don Crucito-8nYCyhU6as8.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares-Don%20Crucito-8nYCyhU6as8.mp4?raw=true",
-        "Los Muertos de Cristo - Grita y No Pares de Gritar-2H2rZ9d9iM8.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Muertos%20de%20Cristo%20-%20Grita%20y%20No%20Pares%20de%20Gritar-2H2rZ9d9iM8.mp4?raw=true",
-        "Mounts and Mountains-WPxgaEeY2cg.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Mounts%20and%20Mountains-WPxgaEeY2cg.mp4?raw=true",
-        "No Sufras Coraz\u00f3n - Julion Alvarez ( LETRA ) ESTRENO 2019-6X6CSKyYhRM.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/No%20Sufras%20Coraz%C3%B3n%20-%20Julion%20Alvarez%20(%20LETRA%20)%20ESTRENO%202019-6X6CSKyYhRM.mp4?raw=true",
-        "O me voy o te vas -Los Hermanos Vega Jr-nM9JiuYRD98.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/O%20me%20voy%20o%20te%20vas%20-Los%20Hermanos%20Vega%20Jr-nM9JiuYRD98.mp4?raw=true",
-        "O, Neure Erri - Skalariak-Gzo0hBOFpRA.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/O%2C%20Neure%20Erri%20-%20Skalariak-Gzo0hBOFpRA.mp4?raw=true",
-        "ORACION PATERNAL Los Hermanos Vega-vBYNh_KLCn4.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/ORACION%20PATERNAL%20Los%20Hermanos%20Vega-vBYNh_KLCn4.mp4?raw=true",
-        "Oasis - Wonderwall  (Official Video)-6hzrDeceEKc.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oasis%20-%20Wonderwall%20%20(Official%20Video)-6hzrDeceEKc.mp4?raw=true",
-        "Ocean Rain-p_AsT8Ney4A.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ocean%20Rain-p_AsT8Ney4A.mp4?raw=true",
-        "Ocean-RaK7YtF3Erc.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ocean-RaK7YtF3Erc.mp4?raw=true",
-        "Oda A La Carretera-EXDPGyHjFP8.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oda%20A%20La%20Carretera-EXDPGyHjFP8.mp4?raw=true",
-        "Oh Baby Babe-bI8wmdk2emQ.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oh%20Baby%20Babe-bI8wmdk2emQ.mp4?raw=true",
-        "Oh Lonesome Me ~ Don Gibson (1957)-YqZjeubkfe8.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oh%20Lonesome%20Me%20%7E%20Don%20Gibson%20(1957)-YqZjeubkfe8.mp4?raw=true",
-        "Oh, qu\u00e9 raro soy-46Phx2_ai6o.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oh%2C%20qu%C3%A9%20raro%20soy-46Phx2_ai6o.mp4?raw=true",
-        "Ojala SilVio RodrigueZ-e7aSHFPcu_E.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ojala%20SilVio%20RodrigueZ-e7aSHFPcu_E.mp4?raw=true",
-        "Old Mary-w9M4kmzJzQY.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Old%20Mary-w9M4kmzJzQY.mp4?raw=true",
-        "One Double One Oh! [Instrumental Version] _ Dick Dale & His Del-Tones-FP8QGZ2mH4A.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/One%20Double%20One%20Oh!%20%5BInstrumental%20Version%5D%20_%20Dick%20Dale%20%26%20His%20Del-Tones-FP8QGZ2mH4A.mp4?raw=true",
-        "One Hundred Years-V7kIB8HTE3k.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/One%20Hundred%20Years-V7kIB8HTE3k.mp4?raw=true",
-        "Only In Dreams-ha3QivnjbIU.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Only%20In%20Dreams-ha3QivnjbIU.mp4?raw=true",
-        "Orange Juice -  Rip It Up (Official Video)-UzPh89tD5pA.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Orange%20Juice%20-%20%20Rip%20It%20Up%20(Official%20Video)-UzPh89tD5pA.mp4?raw=true",
-        "Orquesta La Masacre - Dolor Esquina Miseria-YYGd2qamxCs.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Orquesta%20La%20Masacre%20-%20Dolor%20Esquina%20Miseria-YYGd2qamxCs.mp4?raw=true",
-        "Osama Bin Laden (La Cumbia)-EFQ85J8J5J4.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Osama%20Bin%20Laden%20(La%20Cumbia)-EFQ85J8J5J4.mp4?raw=true",
-        "Oscu - Money (Official Video)-0UgoLFvryBY.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oscu%20-%20Money%20(Official%20Video)-0UgoLFvryBY.mp4?raw=true",
-        "Otro Militar-VK8Fkw1AwUI.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Otro%20Militar-VK8Fkw1AwUI.mp4?raw=true",
-        "Otro Ocupa Mi Lugar-za5c3kya6sY.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Otro%20Ocupa%20Mi%20Lugar-za5c3kya6sY.mp4?raw=true",
-        "Out Of Mind-xa8pdFuJ9Uc.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Out%20Of%20Mind-xa8pdFuJ9Uc.mp4?raw=true",
-        "Out Of This World (Unreleased 2000)-8m5c_LiUNN8.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Out%20Of%20This%20World%20(Unreleased%202000)-8m5c_LiUNN8.mp4?raw=true",
-        "Ovejas Negras - Morena (Video Oficial)-qpnaDcFT_0Y.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ovejas%20Negras%20-%20Morena%20(Video%20Oficial)-qpnaDcFT_0Y.mp4?raw=true",
-        "Over Now-Id3h3eRiuOs.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Over%20Now-Id3h3eRiuOs.mp4?raw=true",
-        "Over The Rainbow ~ Jay White  (1958)-K_wgsZTVSdQ.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Over%20The%20Rainbow%20%7E%20Jay%20White%20%20(1958)-K_wgsZTVSdQ.mp4?raw=true",
-        "Ovi x Myke Towers x \u00d1engo Flow x Aleman - Las Leyendas Nunca Mueren [Official Video]-EpTw88ISIYU.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ovi%20x%20Myke%20Towers%20x%20%C3%91engo%20Flow%20x%20Aleman%20-%20Las%20Leyendas%20Nunca%20Mueren%20%5BOfficial%20Video%5D-EpTw88ISIYU.mp4?raw=true",
-        "Owen Gray - Give Me A Little Sign (Subt\u00edtulos Espa\u00f1ol)-Kjw_F9CYRhI.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Owen%20Gray%20-%20Give%20Me%20A%20Little%20Sign%20(Subt%C3%ADtulos%20Espa%C3%B1ol)-Kjw_F9CYRhI.mp4?raw=true",
-        "Oxidised Razor Masticator-EHAJ28xP6zM.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oxidised%20Razor%20Masticator-EHAJ28xP6zM.mp4?raw=true",
-        "Rockdrigo Gonz\u00e1lez - Perro en el perif\u00e9rico-dk6AeLRe2es.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Rockdrigo%20Gonz%C3%A1lez%20-%20Perro%20en%20el%20perif%C3%A9rico-dk6AeLRe2es.mp4?raw=true",
-        "Soldier Side - Intro-D_RCCXH3PPg.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Soldier%20Side%20-%20Intro-D_RCCXH3PPg.mp4?raw=true",
-        "Solo quiero un xod\u00f3-mAqj-o9_Jnk.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Solo%20quiero%20un%20xod%C3%B3-mAqj-o9_Jnk.mp4?raw=true",
-        "Sons of Belial-RQwCUoTdcx0.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Sons%20of%20Belial-RQwCUoTdcx0.mp4?raw=true",
-        "Sound Carrier by Wes Montgomery-TXuKKA_ik5Y.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Sound%20Carrier%20by%20Wes%20Montgomery-TXuKKA_ik5Y.mp4?raw=true",
-        "Tom Odell - Concrete (Official Video)-bnZxWpwvFEk.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Tom%20Odell%20-%20Concrete%20(Official%20Video)-bnZxWpwvFEk.mp4?raw=true",
-        "Tommy Torres - Tarde O Temprano (Video Oficial)-5E3CDn73T3U.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Tommy%20Torres%20-%20Tarde%20O%20Temprano%20(Video%20Oficial)-5E3CDn73T3U.mp4?raw=true",
-        "Tonino Carotone -   Pecatore-XKFPno_JBkg.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Tonino%20Carotone%20-%20%20%20Pecatore-XKFPno_JBkg.mp4?raw=true",
-        "Too Hip, Gotta Go - Stray Cats-ZtHqMtdutZc.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Too%20Hip%2C%20Gotta%20Go%20-%20Stray%20Cats-ZtHqMtdutZc.mp4?raw=true",
-        "VOLANDO VOY _ CAMARON DE LA ISLA-7lOEsFE_iPk.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/VOLANDO%20VOY%20_%20CAMARON%20DE%20LA%20ISLA-7lOEsFE_iPk.mp4?raw=true",
-        "Yo S\u00e9 Que Te Acordar\u00e1s-sB2nWq5Paa4.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Yo%20S%C3%A9%20Que%20Te%20Acordar%C3%A1s-sB2nWq5Paa4.mp4?raw=true",
-        "Young the Giant - Nothing's Over (In The Open)-jkp7mTd_VIU.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/Young%20the%20Giant%20-%20Nothing's%20Over%20(In%20The%20Open)-jkp7mTd_VIU.mp4?raw=true",
-        "los cadetes de linares jesus malverde-jBBHquabwEA.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/los%20cadetes%20de%20linares%20jesus%20malverde-jBBHquabwEA.mp4?raw=true",
-        "los herederos de nuevo leon - matame-r2KSo_DkhuA.mp4": "https://github.com/circuitalmynds/music_o/blob/main/videos/los%20herederos%20de%20nuevo%20leon%20-%20matame-r2KSo_DkhuA.mp4?raw=true"
+        "Bob Dylan- Knockin' on Heaven's Door 'Original'-rnKbImRPhTE.mp4": {
+            "image": "https://i.ytimg.com/vi/rnKbImRPhTE/hqdefault.jpg",
+            "size": 8.398099899291992,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Bob%20Dylan-%20Knockin'%20on%20Heaven's%20Door%20'Original'-rnKbImRPhTE.mp4?raw=true"
+        },
+        "Conflict - Mighty and Superior-E3NSA1_bq1c.mp4": {
+            "image": "https://i.ytimg.com/vi/E3NSA1_bq1c/hqdefault.jpg",
+            "size": 5.722931861877441,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Conflict%20-%20Mighty%20and%20Superior-E3NSA1_bq1c.mp4?raw=true"
+        },
+        "Conflict - Neither Is This (1985)-Zna0JbP73To.mp4": {
+            "image": "https://i.ytimg.com/vi/Zna0JbP73To/hqdefault.jpg",
+            "size": 4.121254920959473,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Conflict%20-%20Neither%20Is%20This%20(1985)-Zna0JbP73To.mp4?raw=true"
+        },
+        "Control Machete - Desde la Tierra (Tercer Planeta)-KFj8jrPhT8Q.mp4": {
+            "image": "https://i.ytimg.com/vi/KFj8jrPhT8Q/hqdefault.jpg",
+            "size": 5.796985626220703,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Control%20Machete%20-%20Desde%20la%20Tierra%20(Tercer%20Planeta)-KFj8jrPhT8Q.mp4?raw=true"
+        },
+        "Control Machete - Si Se\u00f1or-K_WIGqKS5dA.mp4": {
+            "image": "https://i.ytimg.com/vi/K_WIGqKS5dA/hqdefault.jpg",
+            "size": 18.304184913635254,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Control%20Machete%20-%20Si%20Se%C3%B1or-K_WIGqKS5dA.mp4?raw=true"
+        },
+        "Corazon De Oropel-qrkr_kZsXkU.mp4": {
+            "image": "https://i.ytimg.com/vi/qrkr_kZsXkU/hqdefault.jpg",
+            "size": 2.4020776748657227,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Corazon%20De%20Oropel-qrkr_kZsXkU.mp4?raw=true"
+        },
+        "Donde todo empieza-5dsNLay9t64.mp4": {
+            "image": "https://i.ytimg.com/vi/5dsNLay9t64/hqdefault.jpg",
+            "size": 8.81265640258789,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Donde%20todo%20empieza-5dsNLay9t64.mp4?raw=true"
+        },
+        "Done Lost Your Good Thing Now Stevie Ray Vaughan 1981-d-KE0VwHJL4.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 25.029298782348633,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Done%20Lost%20Your%20Good%20Thing%20Now%20Stevie%20Ray%20Vaughan%201981-d-KE0VwHJL4.mp4?raw=true"
+        },
+        "Joe Walsh - In the City --ljSuROOUxg8.mp4": {
+            "image": "https://i.ytimg.com/vi/ljSuROOUxg8/hqdefault.jpg",
+            "size": 4.525147438049316,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Joe%20Walsh%20-%20In%20the%20City%20--ljSuROOUxg8.mp4?raw=true"
+        },
+        "LOS CADETES DE LINARES  ' CARTA JUGADA '-8noa8uYf8lQ.mp4": {
+            "image": "https://i.ytimg.com/vi/8noa8uYf8lQ/hqdefault.jpg",
+            "size": 5.622616767883301,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20%20'%20CARTA%20JUGADA%20'-8noa8uYf8lQ.mp4?raw=true"
+        },
+        "LOS CADETES DE LINARES - PESCADORES DE ENSENADA-nh9OBULqkeo.mp4": {
+            "image": "https://i.ytimg.com/vi/nh9OBULqkeo/hqdefault.jpg",
+            "size": 12.441349983215332,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20-%20PESCADORES%20DE%20ENSENADA-nh9OBULqkeo.mp4?raw=true"
+        },
+        "LOS CADETES DE LINARES DE CHINA A BRAVO-DkaGBTfXlgg.mp4": {
+            "image": "https://i.ytimg.com/vi/DkaGBTfXlgg/hqdefault.jpg",
+            "size": 7.212554931640625,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20DE%20CHINA%20A%20BRAVO-DkaGBTfXlgg.mp4?raw=true"
+        },
+        "LOS CADETES DE LINARES POLONCHA POLKA-s9ClJLE16Rk.mp4": {
+            "image": "https://i.ytimg.com/vi/s9ClJLE16Rk/hqdefault.jpg",
+            "size": 2.9733028411865234,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20POLONCHA%20POLKA-s9ClJLE16Rk.mp4?raw=true"
+        },
+        "Los Cadetes De Linares - Libro Abierto-beFx-OdAYvc.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 5.161118507385254,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20De%20Linares%20-%20Libro%20Abierto-beFx-OdAYvc.mp4?raw=true"
+        },
+        "Los Cadetes de Linares -  La Tregedia de Rosita-64CgKjWNGq0.mp4": {
+            "image": "https://i.ytimg.com/vi/64CgKjWNGq0/hqdefault.jpg",
+            "size": 4.639924049377441,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20%20La%20Tregedia%20de%20Rosita-64CgKjWNGq0.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Caballo Alazan Lucero-o_jq5tqUcVQ.mp4": {
+            "image": "https://i.ytimg.com/vi/o_jq5tqUcVQ/hqdefault.jpg",
+            "size": 4.195695877075195,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Caballo%20Alazan%20Lucero-o_jq5tqUcVQ.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Cosas del Ayer-SEmq32R-H90.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 3.4477033615112305,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Cosas%20del%20Ayer-SEmq32R-H90.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Dimas de Leon-RCEbiDJXARs.mp4": {
+            "image": "https://i.ytimg.com/vi/RCEbiDJXARs/hqdefault.jpg",
+            "size": 3.4248533248901367,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Dimas%20de%20Leon-RCEbiDJXARs.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - El Dia Que Te Cases-ifLkIv8f6Qw.mp4": {
+            "image": "https://i.ytimg.com/vi/ifLkIv8f6Qw/hqdefault.jpg",
+            "size": 3.1886510848999023,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20El%20Dia%20Que%20Te%20Cases-ifLkIv8f6Qw.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - El Hijo De Palenque (En Vivo)-vpweg2Qkodg.mp4": {
+            "image": "https://i.ytimg.com/vi/vpweg2Qkodg/hqdefault.jpg",
+            "size": 4.413226127624512,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20El%20Hijo%20De%20Palenque%20(En%20Vivo)-vpweg2Qkodg.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - El Pata de Palo-kwFqN1UalNI.mp4": {
+            "image": "https://i.ytimg.com/vi/kwFqN1UalNI/hqdefault.jpg",
+            "size": 5.906045913696289,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20El%20Pata%20de%20Palo-kwFqN1UalNI.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - El Rogon-05v87MOw9L4.mp4": {
+            "image": "https://i.ytimg.com/vi/05v87MOw9L4/hqdefault.jpg",
+            "size": 3.314188003540039,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20El%20Rogon-05v87MOw9L4.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - En Un Tiempo-bQUbEXWO0Ys.mp4": {
+            "image": "https://i.ytimg.com/vi/bQUbEXWO0Ys/hqdefault.jpg",
+            "size": 3.7317543029785156,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20En%20Un%20Tiempo-bQUbEXWO0Ys.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Flor de Mis Primeros Anos-LYkXBMF-ciM.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 2.258084297180176,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Flor%20de%20Mis%20Primeros%20Anos-LYkXBMF-ciM.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Generoso y Carmelita-DacExV3ZQzI.mp4": {
+            "image": "https://i.ytimg.com/vi/DacExV3ZQzI/hqdefault.jpg",
+            "size": 3.7289276123046875,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Generoso%20y%20Carmelita-DacExV3ZQzI.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - La Tartana-FmxyPAo-djE.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 3.2471494674682617,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20La%20Tartana-FmxyPAo-djE.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Los Dos Amigos (Video Oficial)-kfMhrwMXMZ4.mp4": {
+            "image": "https://i.ytimg.com/vi/kfMhrwMXMZ4/hqdefault.jpg",
+            "size": 12.384980201721191,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Los%20Dos%20Amigos%20(Video%20Oficial)-kfMhrwMXMZ4.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Mas Enamorado-h_h3TQBHrjw.mp4": {
+            "image": "https://i.ytimg.com/vi/h_h3TQBHrjw/hqdefault.jpg",
+            "size": 4.62924861907959,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Mas%20Enamorado-h_h3TQBHrjw.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Mi Amigo-PcoUoCFX5x8.mp4": {
+            "image": "https://i.ytimg.com/vi/PcoUoCFX5x8/hqdefault.jpg",
+            "size": 3.634272575378418,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Mi%20Amigo-PcoUoCFX5x8.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Mi Morenita-hwl7PH_chpQ.mp4": {
+            "image": "https://i.ytimg.com/vi/hwl7PH_chpQ/hqdefault.jpg",
+            "size": 2.758096694946289,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Mi%20Morenita-hwl7PH_chpQ.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Mis Padres Perdi-3wxXF4fM6i8.mp4": {
+            "image": "https://i.ytimg.com/vi/3wxXF4fM6i8/hqdefault.jpg",
+            "size": 3.651071548461914,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Mis%20Padres%20Perdi-3wxXF4fM6i8.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Muchachita-UhcM4AxutNY.mp4": {
+            "image": "https://i.ytimg.com/vi/UhcM4AxutNY/hqdefault.jpg",
+            "size": 3.1123714447021484,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Muchachita-UhcM4AxutNY.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Necio, Necio Morire-ICIE-2O23PY.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 3.558760643005371,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Necio%2C%20Necio%20Morire-ICIE-2O23PY.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Pueblito-gRFy1uJelcQ.mp4": {
+            "image": "https://i.ytimg.com/vi/gRFy1uJelcQ/hqdefault.jpg",
+            "size": 4.506096839904785,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Pueblito-gRFy1uJelcQ.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Rezando Por Ella-zY6xjZhgu38.mp4": {
+            "image": "https://i.ytimg.com/vi/zY6xjZhgu38/hqdefault.jpg",
+            "size": 2.7892303466796875,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Rezando%20Por%20Ella-zY6xjZhgu38.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Silvano Garcia-ewvuI2uxxR8.mp4": {
+            "image": "https://i.ytimg.com/vi/ewvuI2uxxR8/hqdefault.jpg",
+            "size": 5.549002647399902,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Silvano%20Garcia-ewvuI2uxxR8.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Una Pagina Mas (En Vivo Desde Houston, Tx)-AsBmCJNydco.mp4": {
+            "image": "https://i.ytimg.com/vi/AsBmCJNydco/hqdefault.jpg",
+            "size": 16.292468070983887,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Una%20Pagina%20Mas%20(En%20Vivo%20Desde%20Houston%2C%20Tx)-AsBmCJNydco.mp4?raw=true"
+        },
+        "Los Cadetes de Linares-Don Crucito-8nYCyhU6as8.mp4": {
+            "image": "https://i.ytimg.com/vi/8nYCyhU6as8/hqdefault.jpg",
+            "size": 3.485227584838867,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Cadetes%20de%20Linares-Don%20Crucito-8nYCyhU6as8.mp4?raw=true"
+        },
+        "Los Muertos de Cristo - Grita y No Pares de Gritar-2H2rZ9d9iM8.mp4": {
+            "image": "https://i.ytimg.com/vi/2H2rZ9d9iM8/hqdefault.jpg",
+            "size": 5.752971649169922,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los%20Muertos%20de%20Cristo%20-%20Grita%20y%20No%20Pares%20de%20Gritar-2H2rZ9d9iM8.mp4?raw=true"
+        },
+        "Mounts and Mountains-WPxgaEeY2cg.mp4": {
+            "image": "https://i.ytimg.com/vi/WPxgaEeY2cg/hqdefault.jpg",
+            "size": 9.025530815124512,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Mounts%20and%20Mountains-WPxgaEeY2cg.mp4?raw=true"
+        },
+        "No Sufras Coraz\u00f3n - Julion Alvarez ( LETRA ) ESTRENO 2019-6X6CSKyYhRM.mp4": {
+            "image": "https://i.ytimg.com/vi/6X6CSKyYhRM/hqdefault.jpg",
+            "size": 8.283320426940918,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/No%20Sufras%20Coraz%C3%B3n%20-%20Julion%20Alvarez%20(%20LETRA%20)%20ESTRENO%202019-6X6CSKyYhRM.mp4?raw=true"
+        },
+        "O me voy o te vas -Los Hermanos Vega Jr-nM9JiuYRD98.mp4": {
+            "image": "https://i.ytimg.com/vi/nM9JiuYRD98/hqdefault.jpg",
+            "size": 16.518668174743652,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/O%20me%20voy%20o%20te%20vas%20-Los%20Hermanos%20Vega%20Jr-nM9JiuYRD98.mp4?raw=true"
+        },
+        "O, Neure Erri - Skalariak-Gzo0hBOFpRA.mp4": {
+            "image": "https://i.ytimg.com/vi/Gzo0hBOFpRA/hqdefault.jpg",
+            "size": 5.844869613647461,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/O%2C%20Neure%20Erri%20-%20Skalariak-Gzo0hBOFpRA.mp4?raw=true"
+        },
+        "ORACION PATERNAL Los Hermanos Vega-vBYNh_KLCn4.mp4": {
+            "image": "https://i.ytimg.com/vi/vBYNh_KLCn4/hqdefault.jpg",
+            "size": 9.50065803527832,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/ORACION%20PATERNAL%20Los%20Hermanos%20Vega-vBYNh_KLCn4.mp4?raw=true"
+        },
+        "Oasis - Wonderwall  (Official Video)-6hzrDeceEKc.mp4": {
+            "image": "https://i.ytimg.com/vi/6hzrDeceEKc/hqdefault.jpg",
+            "size": 10.592942237854004,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oasis%20-%20Wonderwall%20%20(Official%20Video)-6hzrDeceEKc.mp4?raw=true"
+        },
+        "Ocean Rain-p_AsT8Ney4A.mp4": {
+            "image": "https://i.ytimg.com/vi/p_AsT8Ney4A/hqdefault.jpg",
+            "size": 9.960997581481934,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ocean%20Rain-p_AsT8Ney4A.mp4?raw=true"
+        },
+        "Ocean-RaK7YtF3Erc.mp4": {
+            "image": "https://i.ytimg.com/vi/RaK7YtF3Erc/hqdefault.jpg",
+            "size": 4.2258806228637695,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ocean-RaK7YtF3Erc.mp4?raw=true"
+        },
+        "Oda A La Carretera-EXDPGyHjFP8.mp4": {
+            "image": "https://i.ytimg.com/vi/EXDPGyHjFP8/hqdefault.jpg",
+            "size": 5.102224349975586,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oda%20A%20La%20Carretera-EXDPGyHjFP8.mp4?raw=true"
+        },
+        "Oh Baby Babe-bI8wmdk2emQ.mp4": {
+            "image": "https://i.ytimg.com/vi/bI8wmdk2emQ/hqdefault.jpg",
+            "size": 2.413145065307617,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oh%20Baby%20Babe-bI8wmdk2emQ.mp4?raw=true"
+        },
+        "Oh Lonesome Me ~ Don Gibson (1957)-YqZjeubkfe8.mp4": {
+            "image": "https://i.ytimg.com/vi/YqZjeubkfe8/hqdefault.jpg",
+            "size": 7.528803825378418,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oh%20Lonesome%20Me%20%7E%20Don%20Gibson%20(1957)-YqZjeubkfe8.mp4?raw=true"
+        },
+        "Oh, qu\u00e9 raro soy-46Phx2_ai6o.mp4": {
+            "image": "https://i.ytimg.com/vi/46Phx2_ai6o/hqdefault.jpg",
+            "size": 3.2742996215820312,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oh%2C%20qu%C3%A9%20raro%20soy-46Phx2_ai6o.mp4?raw=true"
+        },
+        "Ojala SilVio RodrigueZ-e7aSHFPcu_E.mp4": {
+            "image": "https://i.ytimg.com/vi/e7aSHFPcu_E/hqdefault.jpg",
+            "size": 4.301146507263184,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ojala%20SilVio%20RodrigueZ-e7aSHFPcu_E.mp4?raw=true"
+        },
+        "Old Mary-w9M4kmzJzQY.mp4": {
+            "image": "https://i.ytimg.com/vi/w9M4kmzJzQY/hqdefault.jpg",
+            "size": 4.26698112487793,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Old%20Mary-w9M4kmzJzQY.mp4?raw=true"
+        },
+        "One Double One Oh! [Instrumental Version] _ Dick Dale & His Del-Tones-FP8QGZ2mH4A.mp4": {
+            "image": "https://i.ytimg.com/vi/FP8QGZ2mH4A/hqdefault.jpg",
+            "size": 2.7435684204101562,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/One%20Double%20One%20Oh!%20%5BInstrumental%20Version%5D%20_%20Dick%20Dale%20%26%20His%20Del-Tones-FP8QGZ2mH4A.mp4?raw=true"
+        },
+        "One Hundred Years-V7kIB8HTE3k.mp4": {
+            "image": "https://i.ytimg.com/vi/V7kIB8HTE3k/hqdefault.jpg",
+            "size": 8.911809921264648,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/One%20Hundred%20Years-V7kIB8HTE3k.mp4?raw=true"
+        },
+        "Only In Dreams-ha3QivnjbIU.mp4": {
+            "image": "https://i.ytimg.com/vi/ha3QivnjbIU/hqdefault.jpg",
+            "size": 7.195640563964844,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Only%20In%20Dreams-ha3QivnjbIU.mp4?raw=true"
+        },
+        "Orange Juice -  Rip It Up (Official Video)-UzPh89tD5pA.mp4": {
+            "image": "https://i.ytimg.com/vi/UzPh89tD5pA/hqdefault.jpg",
+            "size": 17.676291465759277,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Orange%20Juice%20-%20%20Rip%20It%20Up%20(Official%20Video)-UzPh89tD5pA.mp4?raw=true"
+        },
+        "Orquesta La Masacre - Dolor Esquina Miseria-YYGd2qamxCs.mp4": {
+            "image": "https://i.ytimg.com/vi/YYGd2qamxCs/hqdefault.jpg",
+            "size": 11.917618751525879,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Orquesta%20La%20Masacre%20-%20Dolor%20Esquina%20Miseria-YYGd2qamxCs.mp4?raw=true"
+        },
+        "Osama Bin Laden (La Cumbia)-EFQ85J8J5J4.mp4": {
+            "image": "https://i.ytimg.com/vi/EFQ85J8J5J4/hqdefault.jpg",
+            "size": 2.9810218811035156,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Osama%20Bin%20Laden%20(La%20Cumbia)-EFQ85J8J5J4.mp4?raw=true"
+        },
+        "Oscu - Money (Official Video)-0UgoLFvryBY.mp4": {
+            "image": "https://i.ytimg.com/vi/0UgoLFvryBY/hqdefault.jpg",
+            "size": 8.946539878845215,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oscu%20-%20Money%20(Official%20Video)-0UgoLFvryBY.mp4?raw=true"
+        },
+        "Otro Militar-VK8Fkw1AwUI.mp4": {
+            "image": "https://i.ytimg.com/vi/VK8Fkw1AwUI/hqdefault.jpg",
+            "size": 1.7473516464233398,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Otro%20Militar-VK8Fkw1AwUI.mp4?raw=true"
+        },
+        "Otro Ocupa Mi Lugar-za5c3kya6sY.mp4": {
+            "image": "https://i.ytimg.com/vi/za5c3kya6sY/hqdefault.jpg",
+            "size": 6.6355180740356445,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Otro%20Ocupa%20Mi%20Lugar-za5c3kya6sY.mp4?raw=true"
+        },
+        "Out Of Mind-xa8pdFuJ9Uc.mp4": {
+            "image": "https://i.ytimg.com/vi/xa8pdFuJ9Uc/hqdefault.jpg",
+            "size": 4.680954933166504,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Out%20Of%20Mind-xa8pdFuJ9Uc.mp4?raw=true"
+        },
+        "Out Of This World (Unreleased 2000)-8m5c_LiUNN8.mp4": {
+            "image": "https://i.ytimg.com/vi/8m5c_LiUNN8/hqdefault.jpg",
+            "size": 8.540506362915039,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Out%20Of%20This%20World%20(Unreleased%202000)-8m5c_LiUNN8.mp4?raw=true"
+        },
+        "Ovejas Negras - Morena (Video Oficial)-qpnaDcFT_0Y.mp4": {
+            "image": "https://i.ytimg.com/vi/qpnaDcFT_0Y/hqdefault.jpg",
+            "size": 14.87932300567627,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ovejas%20Negras%20-%20Morena%20(Video%20Oficial)-qpnaDcFT_0Y.mp4?raw=true"
+        },
+        "Over Now-Id3h3eRiuOs.mp4": {
+            "image": "https://i.ytimg.com/vi/Id3h3eRiuOs/hqdefault.jpg",
+            "size": 17.487330436706543,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Over%20Now-Id3h3eRiuOs.mp4?raw=true"
+        },
+        "Over The Rainbow ~ Jay White  (1958)-K_wgsZTVSdQ.mp4": {
+            "image": "https://i.ytimg.com/vi/K_wgsZTVSdQ/hqdefault.jpg",
+            "size": 5.629228591918945,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Over%20The%20Rainbow%20%7E%20Jay%20White%20%20(1958)-K_wgsZTVSdQ.mp4?raw=true"
+        },
+        "Ovi x Myke Towers x \u00d1engo Flow x Aleman - Las Leyendas Nunca Mueren [Official Video]-EpTw88ISIYU.mp4": {
+            "image": "https://i.ytimg.com/vi/EpTw88ISIYU/hqdefault.jpg",
+            "size": 13.566529273986816,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ovi%20x%20Myke%20Towers%20x%20%C3%91engo%20Flow%20x%20Aleman%20-%20Las%20Leyendas%20Nunca%20Mueren%20%5BOfficial%20Video%5D-EpTw88ISIYU.mp4?raw=true"
+        },
+        "Owen Gray - Give Me A Little Sign (Subt\u00edtulos Espa\u00f1ol)-Kjw_F9CYRhI.mp4": {
+            "image": "https://i.ytimg.com/vi/Kjw_F9CYRhI/hqdefault.jpg",
+            "size": 7.857898712158203,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Owen%20Gray%20-%20Give%20Me%20A%20Little%20Sign%20(Subt%C3%ADtulos%20Espa%C3%B1ol)-Kjw_F9CYRhI.mp4?raw=true"
+        },
+        "Oxidised Razor Masticator-EHAJ28xP6zM.mp4": {
+            "image": "https://i.ytimg.com/vi/EHAJ28xP6zM/hqdefault.jpg",
+            "size": 5.2108659744262695,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oxidised%20Razor%20Masticator-EHAJ28xP6zM.mp4?raw=true"
+        },
+        "Rockdrigo Gonz\u00e1lez - Perro en el perif\u00e9rico-dk6AeLRe2es.mp4": {
+            "image": "https://i.ytimg.com/vi/dk6AeLRe2es/hqdefault.jpg",
+            "size": 10.894213676452637,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Rockdrigo%20Gonz%C3%A1lez%20-%20Perro%20en%20el%20perif%C3%A9rico-dk6AeLRe2es.mp4?raw=true"
+        },
+        "Soldier Side - Intro-D_RCCXH3PPg.mp4": {
+            "image": "https://i.ytimg.com/vi/D_RCCXH3PPg/hqdefault.jpg",
+            "size": 0.9677820205688477,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Soldier%20Side%20-%20Intro-D_RCCXH3PPg.mp4?raw=true"
+        },
+        "Solo quiero un xod\u00f3-mAqj-o9_Jnk.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 6.441729545593262,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Solo%20quiero%20un%20xod%C3%B3-mAqj-o9_Jnk.mp4?raw=true"
+        },
+        "Sons of Belial-RQwCUoTdcx0.mp4": {
+            "image": "https://i.ytimg.com/vi/RQwCUoTdcx0/hqdefault.jpg",
+            "size": 11.270183563232422,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Sons%20of%20Belial-RQwCUoTdcx0.mp4?raw=true"
+        },
+        "Sound Carrier by Wes Montgomery-TXuKKA_ik5Y.mp4": {
+            "image": "https://i.ytimg.com/vi/TXuKKA_ik5Y/hqdefault.jpg",
+            "size": 12.631184577941895,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Sound%20Carrier%20by%20Wes%20Montgomery-TXuKKA_ik5Y.mp4?raw=true"
+        },
+        "Tom Odell - Concrete (Official Video)-bnZxWpwvFEk.mp4": {
+            "image": "https://i.ytimg.com/vi/bnZxWpwvFEk/hqdefault.jpg",
+            "size": 10.512703895568848,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Tom%20Odell%20-%20Concrete%20(Official%20Video)-bnZxWpwvFEk.mp4?raw=true"
+        },
+        "Tommy Torres - Tarde O Temprano (Video Oficial)-5E3CDn73T3U.mp4": {
+            "image": "https://i.ytimg.com/vi/5E3CDn73T3U/hqdefault.jpg",
+            "size": 16.29493808746338,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Tommy%20Torres%20-%20Tarde%20O%20Temprano%20(Video%20Oficial)-5E3CDn73T3U.mp4?raw=true"
+        },
+        "Tonino Carotone -   Pecatore-XKFPno_JBkg.mp4": {
+            "image": "https://i.ytimg.com/vi/XKFPno_JBkg/hqdefault.jpg",
+            "size": 4.1787614822387695,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Tonino%20Carotone%20-%20%20%20Pecatore-XKFPno_JBkg.mp4?raw=true"
+        },
+        "Too Hip, Gotta Go - Stray Cats-ZtHqMtdutZc.mp4": {
+            "image": "https://i.ytimg.com/vi/ZtHqMtdutZc/hqdefault.jpg",
+            "size": 6.606255531311035,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Too%20Hip%2C%20Gotta%20Go%20-%20Stray%20Cats-ZtHqMtdutZc.mp4?raw=true"
+        },
+        "VOLANDO VOY _ CAMARON DE LA ISLA-7lOEsFE_iPk.mp4": {
+            "image": "https://i.ytimg.com/vi/7lOEsFE_iPk/hqdefault.jpg",
+            "size": 5.760104179382324,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/VOLANDO%20VOY%20_%20CAMARON%20DE%20LA%20ISLA-7lOEsFE_iPk.mp4?raw=true"
+        },
+        "Yo S\u00e9 Que Te Acordar\u00e1s-sB2nWq5Paa4.mp4": {
+            "image": "https://i.ytimg.com/vi/sB2nWq5Paa4/hqdefault.jpg",
+            "size": 7.807736396789551,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Yo%20S%C3%A9%20Que%20Te%20Acordar%C3%A1s-sB2nWq5Paa4.mp4?raw=true"
+        },
+        "Young the Giant - Nothing's Over (In The Open)-jkp7mTd_VIU.mp4": {
+            "image": "https://i.ytimg.com/vi/jkp7mTd_VIU/hqdefault.jpg",
+            "size": 13.635187149047852,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Young%20the%20Giant%20-%20Nothing's%20Over%20(In%20The%20Open)-jkp7mTd_VIU.mp4?raw=true"
+        },
+        "los cadetes de linares jesus malverde-jBBHquabwEA.mp4": {
+            "image": "https://i.ytimg.com/vi/jBBHquabwEA/hqdefault.jpg",
+            "size": 6.442350387573242,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/los%20cadetes%20de%20linares%20jesus%20malverde-jBBHquabwEA.mp4?raw=true"
+        },
+        "los herederos de nuevo leon - matame-r2KSo_DkhuA.mp4": {
+            "image": "https://i.ytimg.com/vi/r2KSo_DkhuA/hqdefault.jpg",
+            "size": 6.840442657470703,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/los%20herederos%20de%20nuevo%20leon%20-%20matame-r2KSo_DkhuA.mp4?raw=true"
+        }
     }
 }
