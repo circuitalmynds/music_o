@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1023.7275999999998,
+    "videos": [
         "Children of Bodom - Towards Dead End-j7fbeGWZ5gw.mp4",
         "Oda A La Carretera-EXDPGyHjFP8.mp4",
         "Osama Bin Laden (La Cumbia)-EFQ85J8J5J4.mp4",
@@ -98,7 +99,5 @@
         "Over Now-Id3h3eRiuOs.mp4",
         "Soy Rebelde-dYHjfhlpqbk.mp4",
         "Conjunto Primavera - Enamorado De Ti (Audio)-ttX-z6HLYgA.mp4"
-    ],
-    "id": "o",
-    "total_size": 976.3027949218753
+    ]
 }
