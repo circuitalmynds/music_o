@@ -1,486 +1,583 @@
 {
     "available_space": false,
-    "files": [
+    "content": [
         {
             "name": "Conjunto Primavera - El solitario-iYQUaR_iGcA.mp4",
-            "path": "music_o/videos/Conjunto Primavera - El solitario-iYQUaR_iGcA.mp4",
-            "size": 5.423604736000001
+            "path": "o/videos/Conjunto Primavera - El solitario-iYQUaR_iGcA.mp4",
+            "size": 5.423604736000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Conjunto Primavera - El solitario-iYQUaR_iGcA.mp4?raw=true"
         },
         {
             "name": "Osama Bin Laden (La Cumbia)-EFQ85J8J5J4.mp4",
-            "path": "music_o/videos/Osama Bin Laden (La Cumbia)-EFQ85J8J5J4.mp4",
-            "size": 3.200847872
+            "path": "o/videos/Osama Bin Laden (La Cumbia)-EFQ85J8J5J4.mp4",
+            "size": 3.200847872,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Osama Bin Laden (La Cumbia)-EFQ85J8J5J4.mp4?raw=true"
         },
         {
             "name": "Sioux - Pierdo el rumbo-TpX-6BqIYNw.mp4",
-            "path": "music_o/videos/Sioux - Pierdo el rumbo-TpX-6BqIYNw.mp4",
-            "size": 4.886704128
+            "path": "o/videos/Sioux - Pierdo el rumbo-TpX-6BqIYNw.mp4",
+            "size": 4.886704128,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Sioux - Pierdo el rumbo-TpX-6BqIYNw.mp4?raw=true"
         },
         {
             "name": "Caballeros Del Plan G - Mc´s Infalsificables.-RDIAk77JiaU.mp4",
-            "path": "music_o/videos/Caballeros Del Plan G - Mc´s Infalsificables.-RDIAk77JiaU.mp4",
-            "size": 33.019318272
+            "path": "o/videos/Caballeros Del Plan G - Mc´s Infalsificables.-RDIAk77JiaU.mp4",
+            "size": 33.019318272,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Caballeros Del Plan G - Mc´s Infalsificables.-RDIAk77JiaU.mp4?raw=true"
         },
         {
             "name": "Ovejas Negras - Morena (Video Oficial)-qpnaDcFT_0Y.mp4",
-            "path": "music_o/videos/Ovejas Negras - Morena (Video Oficial)-qpnaDcFT_0Y.mp4",
-            "size": 15.976551424
+            "path": "o/videos/Ovejas Negras - Morena (Video Oficial)-qpnaDcFT_0Y.mp4",
+            "size": 15.976551424,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ovejas Negras - Morena (Video Oficial)-qpnaDcFT_0Y.mp4?raw=true"
         },
         {
             "name": "Tom Petty - Free Fallin'-1lWJXDG2i0A.mp4",
-            "path": "music_o/videos/Tom Petty - Free Fallin'-1lWJXDG2i0A.mp4",
-            "size": 21.261106176000002
+            "path": "o/videos/Tom Petty - Free Fallin'-1lWJXDG2i0A.mp4",
+            "size": 21.261106176000002,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Tom Petty - Free Fallin'-1lWJXDG2i0A.mp4?raw=true"
         },
         {
             "name": "Los Baby's - Triángulo (Video Oficial) ft. Thalía-5iLnlvbyj8c.mp4",
-            "path": "music_o/videos/Los Baby's - Triángulo (Video Oficial) ft. Thalía-5iLnlvbyj8c.mp4",
-            "size": 14.644764672
+            "path": "o/videos/Los Baby's - Triángulo (Video Oficial) ft. Thalía-5iLnlvbyj8c.mp4",
+            "size": 14.644764672,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los Baby's - Triángulo (Video Oficial) ft. Thalía-5iLnlvbyj8c.mp4?raw=true"
         },
         {
             "name": "Travis Barker feat. The Clipse & Kobe - City Of Dreams-cYsJiWsQOdo.mp4",
-            "path": "music_o/videos/Travis Barker feat. The Clipse & Kobe - City Of Dreams-cYsJiWsQOdo.mp4",
-            "size": 7.2492431360000005
+            "path": "o/videos/Travis Barker feat. The Clipse & Kobe - City Of Dreams-cYsJiWsQOdo.mp4",
+            "size": 7.2492431360000005,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Travis Barker feat. The Clipse & Kobe - City Of Dreams-cYsJiWsQOdo.mp4?raw=true"
         },
         {
             "name": "John Coltrane Quartet - Soul Eyes-GoYAGNLqFwg.mp4",
-            "path": "music_o/videos/John Coltrane Quartet - Soul Eyes-GoYAGNLqFwg.mp4",
-            "size": 9.007190016000001
+            "path": "o/videos/John Coltrane Quartet - Soul Eyes-GoYAGNLqFwg.mp4",
+            "size": 9.007190016000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/John Coltrane Quartet - Soul Eyes-GoYAGNLqFwg.mp4?raw=true"
         },
         {
             "name": "Children of Bodom - Towards Dead End-j7fbeGWZ5gw.mp4",
-            "path": "music_o/videos/Children of Bodom - Towards Dead End-j7fbeGWZ5gw.mp4",
-            "size": 12.090059776
+            "path": "o/videos/Children of Bodom - Towards Dead End-j7fbeGWZ5gw.mp4",
+            "size": 12.090059776,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Children of Bodom - Towards Dead End-j7fbeGWZ5gw.mp4?raw=true"
         },
         {
             "name": "Soy Rebelde-dYHjfhlpqbk.mp4",
-            "path": "music_o/videos/Soy Rebelde-dYHjfhlpqbk.mp4",
-            "size": 5.040892928
+            "path": "o/videos/Soy Rebelde-dYHjfhlpqbk.mp4",
+            "size": 5.040892928,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Soy Rebelde-dYHjfhlpqbk.mp4?raw=true"
         },
         {
             "name": "Pixies - Debaser (Official Video)-PVyS9JwtFoQ.mp4",
-            "path": "music_o/videos/Pixies - Debaser (Official Video)-PVyS9JwtFoQ.mp4",
-            "size": 14.327617536000002
+            "path": "o/videos/Pixies - Debaser (Official Video)-PVyS9JwtFoQ.mp4",
+            "size": 14.327617536000002,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Pixies - Debaser (Official Video)-PVyS9JwtFoQ.mp4?raw=true"
         },
         {
             "name": "Cantame una Canción Ahorita-1d2OgJz0ddE.mp4",
-            "path": "music_o/videos/Cantame una Canción Ahorita-1d2OgJz0ddE.mp4",
-            "size": 6.3792384
+            "path": "o/videos/Cantame una Canción Ahorita-1d2OgJz0ddE.mp4",
+            "size": 6.3792384,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Cantame una Canción Ahorita-1d2OgJz0ddE.mp4?raw=true"
         },
         {
             "name": "Stargate - Waterfall ft. P!nk, Sia-W6e1TctNyw8.mp4",
-            "path": "music_o/videos/Stargate - Waterfall ft. P!nk, Sia-W6e1TctNyw8.mp4",
-            "size": 9.444601856
+            "path": "o/videos/Stargate - Waterfall ft. P!nk, Sia-W6e1TctNyw8.mp4",
+            "size": 9.444601856,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Stargate - Waterfall ft. P!nk, Sia-W6e1TctNyw8.mp4?raw=true"
         },
         {
             "name": "Tio Sam-V7u4FtE8xS4.mp4",
-            "path": "music_o/videos/Tio Sam-V7u4FtE8xS4.mp4",
-            "size": 4.733043712000001
+            "path": "o/videos/Tio Sam-V7u4FtE8xS4.mp4",
+            "size": 4.733043712000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Tio Sam-V7u4FtE8xS4.mp4?raw=true"
         },
         {
             "name": "Moonspell - Wolfshade-67u0v7obC5U.mp4",
-            "path": "music_o/videos/Moonspell - Wolfshade-67u0v7obC5U.mp4",
-            "size": 14.130108416
+            "path": "o/videos/Moonspell - Wolfshade-67u0v7obC5U.mp4",
+            "size": 14.130108416,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Moonspell - Wolfshade-67u0v7obC5U.mp4?raw=true"
         },
         {
             "name": "CRYPTOPSY Depths You've Fallen-DUtuqxpCRb0.mp4",
-            "path": "music_o/videos/CRYPTOPSY Depths You've Fallen-DUtuqxpCRb0.mp4",
-            "size": 6.111793152000001
+            "path": "o/videos/CRYPTOPSY Depths You've Fallen-DUtuqxpCRb0.mp4",
+            "size": 6.111793152000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/CRYPTOPSY Depths You've Fallen-DUtuqxpCRb0.mp4?raw=true"
         },
         {
             "name": "O me voy o te vas -Los Hermanos Vega Jr-nM9JiuYRD98.mp4",
-            "path": "music_o/videos/O me voy o te vas -Los Hermanos Vega Jr-nM9JiuYRD98.mp4",
-            "size": 17.736784896
+            "path": "o/videos/O me voy o te vas -Los Hermanos Vega Jr-nM9JiuYRD98.mp4",
+            "size": 17.736784896,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/O me voy o te vas -Los Hermanos Vega Jr-nM9JiuYRD98.mp4?raw=true"
         },
         {
             "name": "SI TU TE VAS - CAMILO SESTO-Pc_ApGXV-b4.mp4",
-            "path": "music_o/videos/SI TU TE VAS - CAMILO SESTO-Pc_ApGXV-b4.mp4",
-            "size": 13.847225344000002
+            "path": "o/videos/SI TU TE VAS - CAMILO SESTO-Pc_ApGXV-b4.mp4",
+            "size": 13.847225344000002,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/SI TU TE VAS - CAMILO SESTO-Pc_ApGXV-b4.mp4?raw=true"
         },
         {
             "name": "SET ROCKSTEADY MUSIC (JAMAICAN MEMORIES)-Q4BAqU0O3c8.mp4",
-            "path": "music_o/videos/SET ROCKSTEADY MUSIC (JAMAICAN MEMORIES)-Q4BAqU0O3c8.mp4",
-            "size": 23.124555776
+            "path": "o/videos/SET ROCKSTEADY MUSIC (JAMAICAN MEMORIES)-Q4BAqU0O3c8.mp4",
+            "size": 23.124555776,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/SET ROCKSTEADY MUSIC (JAMAICAN MEMORIES)-Q4BAqU0O3c8.mp4?raw=true"
         },
         {
             "name": "Out Of This World (Unreleased 2000)-8m5c_LiUNN8.mp4",
-            "path": "music_o/videos/Out Of This World (Unreleased 2000)-8m5c_LiUNN8.mp4",
-            "size": 9.17029888
+            "path": "o/videos/Out Of This World (Unreleased 2000)-8m5c_LiUNN8.mp4",
+            "size": 9.17029888,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Out Of This World (Unreleased 2000)-8m5c_LiUNN8.mp4?raw=true"
         },
         {
             "name": "The Doors - Love Her Madly 1971 (High Quality)-bmujDj24vC0.mp4",
-            "path": "music_o/videos/The Doors - Love Her Madly 1971 (High Quality)-bmujDj24vC0.mp4",
-            "size": 11.842813952
+            "path": "o/videos/The Doors - Love Her Madly 1971 (High Quality)-bmujDj24vC0.mp4",
+            "size": 11.842813952,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/The Doors - Love Her Madly 1971 (High Quality)-bmujDj24vC0.mp4?raw=true"
         },
         {
             "name": "ORACION PATERNAL Los Hermanos Vega-vBYNh_KLCn4.mp4",
-            "path": "music_o/videos/ORACION PATERNAL Los Hermanos Vega-vBYNh_KLCn4.mp4",
-            "size": 10.201253888
+            "path": "o/videos/ORACION PATERNAL Los Hermanos Vega-vBYNh_KLCn4.mp4",
+            "size": 10.201253888,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/ORACION PATERNAL Los Hermanos Vega-vBYNh_KLCn4.mp4?raw=true"
         },
         {
             "name": "The Suicide Machines - Your Silence-548IwQoNxHs.mp4",
-            "path": "music_o/videos/The Suicide Machines - Your Silence-548IwQoNxHs.mp4",
-            "size": 5.692689408000001
+            "path": "o/videos/The Suicide Machines - Your Silence-548IwQoNxHs.mp4",
+            "size": 5.692689408000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/The Suicide Machines - Your Silence-548IwQoNxHs.mp4?raw=true"
         },
         {
             "name": "Chicago - You're The Inspiration _ Lyrics_Letra _ Subtitulado al Español-Z5HFZ7-dRjs.mp4",
-            "path": "music_o/videos/Chicago - You're The Inspiration _ Lyrics_Letra _ Subtitulado al Español-Z5HFZ7-dRjs.mp4",
-            "size": 9.280120832
+            "path": "o/videos/Chicago - You're The Inspiration _ Lyrics_Letra _ Subtitulado al Español-Z5HFZ7-dRjs.mp4",
+            "size": 9.280120832,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Chicago - You're The Inspiration _ Lyrics_Letra _ Subtitulado al Español-Z5HFZ7-dRjs.mp4?raw=true"
         },
         {
             "name": "oxidised razor pus excrector-pegA0xg2aU8.mp4",
-            "path": "music_o/videos/oxidised razor pus excrector-pegA0xg2aU8.mp4",
-            "size": 6.061515776
+            "path": "o/videos/oxidised razor pus excrector-pegA0xg2aU8.mp4",
+            "size": 6.061515776,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/oxidised razor pus excrector-pegA0xg2aU8.mp4?raw=true"
         },
         {
             "name": "C. Tangana, Natti Natasha - Viene y Va (Video Oficial)-o_eyBJy9w5E.mp4",
-            "path": "music_o/videos/C. Tangana, Natti Natasha - Viene y Va (Video Oficial)-o_eyBJy9w5E.mp4",
-            "size": 13.855536128
+            "path": "o/videos/C. Tangana, Natti Natasha - Viene y Va (Video Oficial)-o_eyBJy9w5E.mp4",
+            "size": 13.855536128,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/C. Tangana, Natti Natasha - Viene y Va (Video Oficial)-o_eyBJy9w5E.mp4?raw=true"
         },
         {
             "name": "Sean Paul Feat. Ce'Cile - Can You Do The Work-jW5H62O47pw.mp4",
-            "path": "music_o/videos/Sean Paul Feat. Ce'Cile - Can You Do The Work-jW5H62O47pw.mp4",
-            "size": 6.450962432000001
+            "path": "o/videos/Sean Paul Feat. Ce'Cile - Can You Do The Work-jW5H62O47pw.mp4",
+            "size": 6.450962432000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Sean Paul Feat. Ce'Cile - Can You Do The Work-jW5H62O47pw.mp4?raw=true"
         },
         {
             "name": "Oh Baby Babe-bI8wmdk2emQ.mp4",
-            "path": "music_o/videos/Oh Baby Babe-bI8wmdk2emQ.mp4",
-            "size": 2.591094784
+            "path": "o/videos/Oh Baby Babe-bI8wmdk2emQ.mp4",
+            "size": 2.591094784,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oh Baby Babe-bI8wmdk2emQ.mp4?raw=true"
         },
         {
             "name": "Judas Priest - Starbreaker (Official Audio)-YmD4qZj0lNY.mp4",
-            "path": "music_o/videos/Judas Priest - Starbreaker (Official Audio)-YmD4qZj0lNY.mp4",
-            "size": 6.958336
+            "path": "o/videos/Judas Priest - Starbreaker (Official Audio)-YmD4qZj0lNY.mp4",
+            "size": 6.958336,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Judas Priest - Starbreaker (Official Audio)-YmD4qZj0lNY.mp4?raw=true"
         },
         {
             "name": "Johnny cash - I still miss someone with lyrics-tFdyjFQrTB4.mp4",
-            "path": "music_o/videos/Johnny cash - I still miss someone with lyrics-tFdyjFQrTB4.mp4",
-            "size": 3.4617610240000003
+            "path": "o/videos/Johnny cash - I still miss someone with lyrics-tFdyjFQrTB4.mp4",
+            "size": 3.4617610240000003,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Johnny cash - I still miss someone with lyrics-tFdyjFQrTB4.mp4?raw=true"
         },
         {
             "name": "Christina Aguilera - I Turn To You (Official Music Video)-z4q05resEvc.mp4",
-            "path": "music_o/videos/Christina Aguilera - I Turn To You (Official Music Video)-z4q05resEvc.mp4",
-            "size": 16.679886848000002
+            "path": "o/videos/Christina Aguilera - I Turn To You (Official Music Video)-z4q05resEvc.mp4",
+            "size": 16.679886848000002,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Christina Aguilera - I Turn To You (Official Music Video)-z4q05resEvc.mp4?raw=true"
         },
         {
             "name": "Lil Rob Don't Make Me Wait-ArP8kheY2e0.mp4",
-            "path": "music_o/videos/Lil Rob Don't Make Me Wait-ArP8kheY2e0.mp4",
-            "size": 4.125615104
+            "path": "o/videos/Lil Rob Don't Make Me Wait-ArP8kheY2e0.mp4",
+            "size": 4.125615104,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Lil Rob Don't Make Me Wait-ArP8kheY2e0.mp4?raw=true"
         },
         {
             "name": "The Strokes - Last Nite (Official Music Video)-TOypSnKFHrE.mp4",
-            "path": "music_o/videos/The Strokes - Last Nite (Official Music Video)-TOypSnKFHrE.mp4",
-            "size": 14.70683136
+            "path": "o/videos/The Strokes - Last Nite (Official Music Video)-TOypSnKFHrE.mp4",
+            "size": 14.70683136,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/The Strokes - Last Nite (Official Music Video)-TOypSnKFHrE.mp4?raw=true"
         },
         {
             "name": "Over Now-Id3h3eRiuOs.mp4",
-            "path": "music_o/videos/Over Now-Id3h3eRiuOs.mp4",
-            "size": 18.77687808
+            "path": "o/videos/Over Now-Id3h3eRiuOs.mp4",
+            "size": 18.77687808,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Over Now-Id3h3eRiuOs.mp4?raw=true"
         },
         {
             "name": "Oh, qué raro soy-46Phx2_ai6o.mp4",
-            "path": "music_o/videos/Oh, qué raro soy-46Phx2_ai6o.mp4",
-            "size": 3.515752448
+            "path": "o/videos/Oh, qué raro soy-46Phx2_ai6o.mp4",
+            "size": 3.515752448,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oh, qué raro soy-46Phx2_ai6o.mp4?raw=true"
         },
         {
             "name": "Esto Es Amor-gf_5hRhwkoY.mp4",
-            "path": "music_o/videos/Esto Es Amor-gf_5hRhwkoY.mp4",
-            "size": 6.695764992000001
+            "path": "o/videos/Esto Es Amor-gf_5hRhwkoY.mp4",
+            "size": 6.695764992000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Esto Es Amor-gf_5hRhwkoY.mp4?raw=true"
         },
         {
             "name": "Live 'Rumba de Barcelona' Manu Chao - Radio Bemba Sound System-0nGG53DIVJE.mp4",
-            "path": "music_o/videos/Live 'Rumba de Barcelona' Manu Chao - Radio Bemba Sound System-0nGG53DIVJE.mp4",
-            "size": 14.413386752000001
+            "path": "o/videos/Live 'Rumba de Barcelona' Manu Chao - Radio Bemba Sound System-0nGG53DIVJE.mp4",
+            "size": 14.413386752000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Live 'Rumba de Barcelona' Manu Chao - Radio Bemba Sound System-0nGG53DIVJE.mp4?raw=true"
         },
         {
             "name": "PESADO- todo tuyo-k1HSWepdSEA.mp4",
-            "path": "music_o/videos/PESADO- todo tuyo-k1HSWepdSEA.mp4",
-            "size": 5.38588672
+            "path": "o/videos/PESADO- todo tuyo-k1HSWepdSEA.mp4",
+            "size": 5.38588672,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/PESADO- todo tuyo-k1HSWepdSEA.mp4?raw=true"
         },
         {
             "name": "Over The Rainbow ~ Jay White  (1958)-K_wgsZTVSdQ.mp4",
-            "path": "music_o/videos/Over The Rainbow ~ Jay White  (1958)-K_wgsZTVSdQ.mp4",
-            "size": 6.044338176
+            "path": "o/videos/Over The Rainbow ~ Jay White  (1958)-K_wgsZTVSdQ.mp4",
+            "size": 6.044338176,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Over The Rainbow ~ Jay White  (1958)-K_wgsZTVSdQ.mp4?raw=true"
         },
         {
             "name": "Oscu - Money (Official Video)-0UgoLFvryBY.mp4",
-            "path": "music_o/videos/Oscu - Money (Official Video)-0UgoLFvryBY.mp4",
-            "size": 9.606274048000001
+            "path": "o/videos/Oscu - Money (Official Video)-0UgoLFvryBY.mp4",
+            "size": 9.606274048000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oscu - Money (Official Video)-0UgoLFvryBY.mp4?raw=true"
         },
         {
             "name": "Coldplay - Life In Technicolor ii (Official Video)-fXSovfzyx28.mp4",
-            "path": "music_o/videos/Coldplay - Life In Technicolor ii (Official Video)-fXSovfzyx28.mp4",
-            "size": 18.800410624
+            "path": "o/videos/Coldplay - Life In Technicolor ii (Official Video)-fXSovfzyx28.mp4",
+            "size": 18.800410624,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Coldplay - Life In Technicolor ii (Official Video)-fXSovfzyx28.mp4?raw=true"
         },
         {
             "name": "Siempre Clave - T3R Elemento y Clave 702 (Letra_Lyrics)-iHT9bo3dfmg.mp4",
-            "path": "music_o/videos/Siempre Clave - T3R Elemento y Clave 702 (Letra_Lyrics)-iHT9bo3dfmg.mp4",
-            "size": 6.232397824
+            "path": "o/videos/Siempre Clave - T3R Elemento y Clave 702 (Letra_Lyrics)-iHT9bo3dfmg.mp4",
+            "size": 6.232397824,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Siempre Clave - T3R Elemento y Clave 702 (Letra_Lyrics)-iHT9bo3dfmg.mp4?raw=true"
         },
         {
             "name": "One Double One Oh! [Instrumental Version] _ Dick Dale & His Del-Tones-FP8QGZ2mH4A.mp4",
-            "path": "music_o/videos/One Double One Oh! [Instrumental Version] _ Dick Dale & His Del-Tones-FP8QGZ2mH4A.mp4",
-            "size": 2.9458841600000003
+            "path": "o/videos/One Double One Oh! [Instrumental Version] _ Dick Dale & His Del-Tones-FP8QGZ2mH4A.mp4",
+            "size": 2.9458841600000003,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/One Double One Oh! [Instrumental Version] _ Dick Dale & His Del-Tones-FP8QGZ2mH4A.mp4?raw=true"
         },
         {
             "name": "Otro Militar-VK8Fkw1AwUI.mp4",
-            "path": "music_o/videos/Otro Militar-VK8Fkw1AwUI.mp4",
-            "size": 1.8762045440000001
+            "path": "o/videos/Otro Militar-VK8Fkw1AwUI.mp4",
+            "size": 1.8762045440000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Otro Militar-VK8Fkw1AwUI.mp4?raw=true"
         },
         {
             "name": "One Hundred Years-V7kIB8HTE3k.mp4",
-            "path": "music_o/videos/One Hundred Years-V7kIB8HTE3k.mp4",
-            "size": 9.56898304
+            "path": "o/videos/One Hundred Years-V7kIB8HTE3k.mp4",
+            "size": 9.56898304,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/One Hundred Years-V7kIB8HTE3k.mp4?raw=true"
         },
         {
             "name": "Libre como el viento-1XKzu2cpd38.mp4",
-            "path": "music_o/videos/Libre como el viento-1XKzu2cpd38.mp4",
-            "size": 4.322671616
+            "path": "o/videos/Libre como el viento-1XKzu2cpd38.mp4",
+            "size": 4.322671616,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Libre como el viento-1XKzu2cpd38.mp4?raw=true"
         },
         {
             "name": "(LETRA) ¨LLEVATELA¨ - Jovanny Cadena Y Su Estilo Privado (Lyric Video)-RW4nb9NReH0.mp4",
-            "path": "music_o/videos/(LETRA) ¨LLEVATELA¨ - Jovanny Cadena Y Su Estilo Privado (Lyric Video)-RW4nb9NReH0.mp4",
-            "size": 10.276026368
+            "path": "o/videos/(LETRA) ¨LLEVATELA¨ - Jovanny Cadena Y Su Estilo Privado (Lyric Video)-RW4nb9NReH0.mp4",
+            "size": 10.276026368,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/(LETRA) ¨LLEVATELA¨ - Jovanny Cadena Y Su Estilo Privado (Lyric Video)-RW4nb9NReH0.mp4?raw=true"
         },
         {
             "name": "Ocean-RaK7YtF3Erc.mp4",
-            "path": "music_o/videos/Ocean-RaK7YtF3Erc.mp4",
-            "size": 4.537504768000001
+            "path": "o/videos/Ocean-RaK7YtF3Erc.mp4",
+            "size": 4.537504768000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ocean-RaK7YtF3Erc.mp4?raw=true"
         },
         {
             "name": "Ts & Cs-K_xTFO8-qDI.mp4",
-            "path": "music_o/videos/Ts & Cs-K_xTFO8-qDI.mp4",
-            "size": 11.811684352
+            "path": "o/videos/Ts & Cs-K_xTFO8-qDI.mp4",
+            "size": 11.811684352,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ts & Cs-K_xTFO8-qDI.mp4?raw=true"
         },
         {
             "name": "Otro Ocupa Mi Lugar-za5c3kya6sY.mp4",
-            "path": "music_o/videos/Otro Ocupa Mi Lugar-za5c3kya6sY.mp4",
-            "size": 7.124833280000001
+            "path": "o/videos/Otro Ocupa Mi Lugar-za5c3kya6sY.mp4",
+            "size": 7.124833280000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Otro Ocupa Mi Lugar-za5c3kya6sY.mp4?raw=true"
         },
         {
             "name": "The Last Dance ~ Don Cherry (1957)-cC2lgrm2HSU.mp4",
-            "path": "music_o/videos/The Last Dance ~ Don Cherry (1957)-cC2lgrm2HSU.mp4",
-            "size": 5.858812928000001
+            "path": "o/videos/The Last Dance ~ Don Cherry (1957)-cC2lgrm2HSU.mp4",
+            "size": 5.858812928000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/The Last Dance ~ Don Cherry (1957)-cC2lgrm2HSU.mp4?raw=true"
         },
         {
             "name": "Para que vuelva-fqxbRyWNHac.mp4",
-            "path": "music_o/videos/Para que vuelva-fqxbRyWNHac.mp4",
-            "size": 7.149521920000001
+            "path": "o/videos/Para que vuelva-fqxbRyWNHac.mp4",
+            "size": 7.149521920000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Para que vuelva-fqxbRyWNHac.mp4?raw=true"
         },
         {
             "name": "Moonspell - An Erotic Alchemy-67xop-_vj-s.mp4",
-            "path": "music_o/videos/Moonspell - An Erotic Alchemy-67xop-_vj-s.mp4",
-            "size": 15.015409664000002
+            "path": "o/videos/Moonspell - An Erotic Alchemy-67xop-_vj-s.mp4",
+            "size": 15.015409664000002,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Moonspell - An Erotic Alchemy-67xop-_vj-s.mp4?raw=true"
         },
         {
             "name": "Lament (Flexipop Magazine Cover Release)-GUFePffZr08.mp4",
-            "path": "music_o/videos/Lament (Flexipop Magazine Cover Release)-GUFePffZr08.mp4",
-            "size": 5.98856704
+            "path": "o/videos/Lament (Flexipop Magazine Cover Release)-GUFePffZr08.mp4",
+            "size": 5.98856704,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Lament (Flexipop Magazine Cover Release)-GUFePffZr08.mp4?raw=true"
         },
         {
             "name": "Ladinadaina-_swthOiQA4Q.mp4",
-            "path": "music_o/videos/Ladinadaina-_swthOiQA4Q.mp4",
-            "size": 2.740554752
+            "path": "o/videos/Ladinadaina-_swthOiQA4Q.mp4",
+            "size": 2.740554752,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ladinadaina-_swthOiQA4Q.mp4?raw=true"
         },
         {
             "name": "Out Of Mind-xa8pdFuJ9Uc.mp4",
-            "path": "music_o/videos/Out Of Mind-xa8pdFuJ9Uc.mp4",
-            "size": 5.0261370880000005
+            "path": "o/videos/Out Of Mind-xa8pdFuJ9Uc.mp4",
+            "size": 5.0261370880000005,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Out Of Mind-xa8pdFuJ9Uc.mp4?raw=true"
         },
         {
             "name": "Sea of Heartbreak-phCX0E8avxs.mp4",
-            "path": "music_o/videos/Sea of Heartbreak-phCX0E8avxs.mp4",
-            "size": 6.147469312
+            "path": "o/videos/Sea of Heartbreak-phCX0E8avxs.mp4",
+            "size": 6.147469312,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Sea of Heartbreak-phCX0E8avxs.mp4?raw=true"
         },
         {
             "name": "Luis Miguel - 'Cuando Calienta el Sol' (Video Oficial)-gTkJ-nP6pXY.mp4",
-            "path": "music_o/videos/Luis Miguel - 'Cuando Calienta el Sol' (Video Oficial)-gTkJ-nP6pXY.mp4",
-            "size": 20.907184128
+            "path": "o/videos/Luis Miguel - 'Cuando Calienta el Sol' (Video Oficial)-gTkJ-nP6pXY.mp4",
+            "size": 20.907184128,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Luis Miguel - 'Cuando Calienta el Sol' (Video Oficial)-gTkJ-nP6pXY.mp4?raw=true"
         },
         {
             "name": "Ocean Rain-p_AsT8Ney4A.mp4",
-            "path": "music_o/videos/Ocean Rain-p_AsT8Ney4A.mp4",
-            "size": 10.695539712
+            "path": "o/videos/Ocean Rain-p_AsT8Ney4A.mp4",
+            "size": 10.695539712,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ocean Rain-p_AsT8Ney4A.mp4?raw=true"
         },
         {
             "name": "Texas Blues in A - Acoustic Fingerpicking Blues-dbUhLfetgMg.mp4",
-            "path": "music_o/videos/Texas Blues in A - Acoustic Fingerpicking Blues-dbUhLfetgMg.mp4",
-            "size": 23.3505536
+            "path": "o/videos/Texas Blues in A - Acoustic Fingerpicking Blues-dbUhLfetgMg.mp4",
+            "size": 23.3505536,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Texas Blues in A - Acoustic Fingerpicking Blues-dbUhLfetgMg.mp4?raw=true"
         },
         {
             "name": "The Stone Roses - I Wanna Be Adored (Official Video)-4D2qcbu26gs.mp4",
-            "path": "music_o/videos/The Stone Roses - I Wanna Be Adored (Official Video)-4D2qcbu26gs.mp4",
-            "size": 17.276637184000002
+            "path": "o/videos/The Stone Roses - I Wanna Be Adored (Official Video)-4D2qcbu26gs.mp4",
+            "size": 17.276637184000002,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/The Stone Roses - I Wanna Be Adored (Official Video)-4D2qcbu26gs.mp4?raw=true"
         },
         {
             "name": "Oh Lonesome Me ~ Don Gibson (1957)-YqZjeubkfe8.mp4",
-            "path": "music_o/videos/Oh Lonesome Me ~ Don Gibson (1957)-YqZjeubkfe8.mp4",
-            "size": 8.083991552
+            "path": "o/videos/Oh Lonesome Me ~ Don Gibson (1957)-YqZjeubkfe8.mp4",
+            "size": 8.083991552,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oh Lonesome Me ~ Don Gibson (1957)-YqZjeubkfe8.mp4?raw=true"
         },
         {
             "name": "Ovi x Myke Towers x Ñengo Flow x Aleman - Las Leyendas Nunca Mueren [Official Video]-EpTw88ISIYU.mp4",
-            "path": "music_o/videos/Ovi x Myke Towers x Ñengo Flow x Aleman - Las Leyendas Nunca Mueren [Official Video]-EpTw88ISIYU.mp4",
-            "size": 14.566949888000002
+            "path": "o/videos/Ovi x Myke Towers x Ñengo Flow x Aleman - Las Leyendas Nunca Mueren [Official Video]-EpTw88ISIYU.mp4",
+            "size": 14.566949888000002,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ovi x Myke Towers x Ñengo Flow x Aleman - Las Leyendas Nunca Mueren [Official Video]-EpTw88ISIYU.mp4?raw=true"
         },
         {
             "name": "Calle 13 - Intro Fiesta De Locos (Cover Audio Video)-eXf4UbMUJ0I.mp4",
-            "path": "music_o/videos/Calle 13 - Intro Fiesta De Locos (Cover Audio Video)-eXf4UbMUJ0I.mp4",
-            "size": 0.9095413760000001
+            "path": "o/videos/Calle 13 - Intro Fiesta De Locos (Cover Audio Video)-eXf4UbMUJ0I.mp4",
+            "size": 0.9095413760000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Calle 13 - Intro Fiesta De Locos (Cover Audio Video)-eXf4UbMUJ0I.mp4?raw=true"
         },
         {
             "name": "Oxidised Razor Masticator-EHAJ28xP6zM.mp4",
-            "path": "music_o/videos/Oxidised Razor Masticator-EHAJ28xP6zM.mp4",
-            "size": 5.595124736000001
+            "path": "o/videos/Oxidised Razor Masticator-EHAJ28xP6zM.mp4",
+            "size": 5.595124736000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oxidised Razor Masticator-EHAJ28xP6zM.mp4?raw=true"
         },
         {
             "name": "Oda A La Carretera-EXDPGyHjFP8.mp4",
-            "path": "music_o/videos/Oda A La Carretera-EXDPGyHjFP8.mp4",
-            "size": 5.47847168
+            "path": "o/videos/Oda A La Carretera-EXDPGyHjFP8.mp4",
+            "size": 5.47847168,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oda A La Carretera-EXDPGyHjFP8.mp4?raw=true"
         },
         {
             "name": "Stevie Ray Vaughan Love Me Darlin Live From Austin Texas 1080P   YouTube-PL1MSUaPb5A.mp4",
-            "path": "music_o/videos/Stevie Ray Vaughan Love Me Darlin Live From Austin Texas 1080P   YouTube-PL1MSUaPb5A.mp4",
-            "size": 18.888339456
+            "path": "o/videos/Stevie Ray Vaughan Love Me Darlin Live From Austin Texas 1080P   YouTube-PL1MSUaPb5A.mp4",
+            "size": 18.888339456,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Stevie Ray Vaughan Love Me Darlin Live From Austin Texas 1080P   YouTube-PL1MSUaPb5A.mp4?raw=true"
         },
         {
             "name": "Owen Gray - Give Me A Little Sign (Subtítulos Español)-Kjw_F9CYRhI.mp4",
-            "path": "music_o/videos/Owen Gray - Give Me A Little Sign (Subtítulos Español)-Kjw_F9CYRhI.mp4",
-            "size": 8.437354496000001
+            "path": "o/videos/Owen Gray - Give Me A Little Sign (Subtítulos Español)-Kjw_F9CYRhI.mp4",
+            "size": 8.437354496000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Owen Gray - Give Me A Little Sign (Subtítulos Español)-Kjw_F9CYRhI.mp4?raw=true"
         },
         {
             "name": "Oasis - Wonderwall  (Official Video)-6hzrDeceEKc.mp4",
-            "path": "music_o/videos/Oasis - Wonderwall  (Official Video)-6hzrDeceEKc.mp4",
-            "size": 11.37408512
+            "path": "o/videos/Oasis - Wonderwall  (Official Video)-6hzrDeceEKc.mp4",
+            "size": 11.37408512,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oasis - Wonderwall  (Official Video)-6hzrDeceEKc.mp4?raw=true"
         },
         {
             "name": "Talk Of The School ~ Sonny James (1959)-84cr03DzDm0.mp4",
-            "path": "music_o/videos/Talk Of The School ~ Sonny James (1959)-84cr03DzDm0.mp4",
-            "size": 6.209993728000001
+            "path": "o/videos/Talk Of The School ~ Sonny James (1959)-84cr03DzDm0.mp4",
+            "size": 6.209993728000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Talk Of The School ~ Sonny James (1959)-84cr03DzDm0.mp4?raw=true"
         },
         {
             "name": "Old Mary-w9M4kmzJzQY.mp4",
-            "path": "music_o/videos/Old Mary-w9M4kmzJzQY.mp4",
-            "size": 4.581636096
+            "path": "o/videos/Old Mary-w9M4kmzJzQY.mp4",
+            "size": 4.581636096,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Old Mary-w9M4kmzJzQY.mp4?raw=true"
         },
         {
             "name": "Celso Pina, Control Machete- Cumbia Sobre El Rio-Wgc6CQNI2x8.mp4",
-            "path": "music_o/videos/Celso Pina, Control Machete- Cumbia Sobre El Rio-Wgc6CQNI2x8.mp4",
-            "size": 11.929447424000001
+            "path": "o/videos/Celso Pina, Control Machete- Cumbia Sobre El Rio-Wgc6CQNI2x8.mp4",
+            "size": 11.929447424000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Celso Pina, Control Machete- Cumbia Sobre El Rio-Wgc6CQNI2x8.mp4?raw=true"
         },
         {
             "name": "Ojala SilVio RodrigueZ-e7aSHFPcu_E.mp4",
-            "path": "music_o/videos/Ojala SilVio RodrigueZ-e7aSHFPcu_E.mp4",
-            "size": 4.618320896
+            "path": "o/videos/Ojala SilVio RodrigueZ-e7aSHFPcu_E.mp4",
+            "size": 4.618320896,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Ojala SilVio RodrigueZ-e7aSHFPcu_E.mp4?raw=true"
         },
         {
             "name": "Only In Dreams-ha3QivnjbIU.mp4",
-            "path": "music_o/videos/Only In Dreams-ha3QivnjbIU.mp4",
-            "size": 7.726260224000001
+            "path": "o/videos/Only In Dreams-ha3QivnjbIU.mp4",
+            "size": 7.726260224000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Only In Dreams-ha3QivnjbIU.mp4?raw=true"
         },
         {
             "name": "Los Invasores de Nuevo León - Con Tal De Que Me Olvides ( Audio Oficial )-5BeN6zCqd-4.mp4",
-            "path": "music_o/videos/Los Invasores de Nuevo León - Con Tal De Que Me Olvides ( Audio Oficial )-5BeN6zCqd-4.mp4",
-            "size": 6.727570432
+            "path": "o/videos/Los Invasores de Nuevo León - Con Tal De Que Me Olvides ( Audio Oficial )-5BeN6zCqd-4.mp4",
+            "size": 6.727570432,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Los Invasores de Nuevo León - Con Tal De Que Me Olvides ( Audio Oficial )-5BeN6zCqd-4.mp4?raw=true"
         },
         {
             "name": "Oxidised Razor-Hidrocefalo Esofagico-AenVmZFwJDo.mp4",
-            "path": "music_o/videos/Oxidised Razor-Hidrocefalo Esofagico-AenVmZFwJDo.mp4",
-            "size": 12.184198144000002
+            "path": "o/videos/Oxidised Razor-Hidrocefalo Esofagico-AenVmZFwJDo.mp4",
+            "size": 12.184198144000002,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oxidised Razor-Hidrocefalo Esofagico-AenVmZFwJDo.mp4?raw=true"
         },
         {
             "name": "Orange Juice -  Rip It Up (Official Video)-UzPh89tD5pA.mp4",
-            "path": "music_o/videos/Orange Juice -  Rip It Up (Official Video)-UzPh89tD5pA.mp4",
-            "size": 18.979773440000002
+            "path": "o/videos/Orange Juice -  Rip It Up (Official Video)-UzPh89tD5pA.mp4",
+            "size": 18.979773440000002,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Orange Juice -  Rip It Up (Official Video)-UzPh89tD5pA.mp4?raw=true"
         },
         {
             "name": "Control Machete - Marioneta-40D2fn4FdGM.mp4",
-            "path": "music_o/videos/Control Machete - Marioneta-40D2fn4FdGM.mp4",
-            "size": 5.599424512000001
+            "path": "o/videos/Control Machete - Marioneta-40D2fn4FdGM.mp4",
+            "size": 5.599424512000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Control Machete - Marioneta-40D2fn4FdGM.mp4?raw=true"
         },
         {
             "name": "O, Neure Erri - Skalariak-Gzo0hBOFpRA.mp4",
-            "path": "music_o/videos/O, Neure Erri - Skalariak-Gzo0hBOFpRA.mp4",
-            "size": 6.27588096
+            "path": "o/videos/O, Neure Erri - Skalariak-Gzo0hBOFpRA.mp4",
+            "size": 6.27588096,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/O, Neure Erri - Skalariak-Gzo0hBOFpRA.mp4?raw=true"
         },
         {
             "name": "TODOS CALLAN _ POCO × MUSA × SK [Prod. 11.97]-wtjK-7puqJM.mp4",
-            "path": "music_o/videos/TODOS CALLAN _ POCO × MUSA × SK [Prod. 11.97]-wtjK-7puqJM.mp4",
-            "size": 14.43165184
+            "path": "o/videos/TODOS CALLAN _ POCO × MUSA × SK [Prod. 11.97]-wtjK-7puqJM.mp4",
+            "size": 14.43165184,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/TODOS CALLAN _ POCO × MUSA × SK [Prod. 11.97]-wtjK-7puqJM.mp4?raw=true"
         },
         {
             "name": "System Of A Down - Chop Suey! (Official Video)-CSvFpBOe8eY.mp4",
-            "path": "music_o/videos/System Of A Down - Chop Suey! (Official Video)-CSvFpBOe8eY.mp4",
-            "size": 19.050478592
+            "path": "o/videos/System Of A Down - Chop Suey! (Official Video)-CSvFpBOe8eY.mp4",
+            "size": 19.050478592,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/System Of A Down - Chop Suey! (Official Video)-CSvFpBOe8eY.mp4?raw=true"
         },
         {
             "name": "Primus - Wynona's Big Brown Beaver-aYDfwUJzYQg.mp4",
-            "path": "music_o/videos/Primus - Wynona's Big Brown Beaver-aYDfwUJzYQg.mp4",
-            "size": 29.564038144
+            "path": "o/videos/Primus - Wynona's Big Brown Beaver-aYDfwUJzYQg.mp4",
+            "size": 29.564038144,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Primus - Wynona's Big Brown Beaver-aYDfwUJzYQg.mp4?raw=true"
         },
         {
             "name": "Oxidised Razor  Night Stalker (R.R.) (Album Carne...Sangre...)-_2PkSNhIe_A.mp4",
-            "path": "music_o/videos/Oxidised Razor  Night Stalker (R.R.) (Album Carne...Sangre...)-_2PkSNhIe_A.mp4",
-            "size": 5.079123968
+            "path": "o/videos/Oxidised Razor  Night Stalker (R.R.) (Album Carne...Sangre...)-_2PkSNhIe_A.mp4",
+            "size": 5.079123968,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Oxidised Razor  Night Stalker (R.R.) (Album Carne...Sangre...)-_2PkSNhIe_A.mp4?raw=true"
         },
         {
             "name": "ESCORIA- La Policia no-xq4FBt6YWrU.mp4",
-            "path": "music_o/videos/ESCORIA- La Policia no-xq4FBt6YWrU.mp4",
-            "size": 22.582444032
+            "path": "o/videos/ESCORIA- La Policia no-xq4FBt6YWrU.mp4",
+            "size": 22.582444032,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/ESCORIA- La Policia no-xq4FBt6YWrU.mp4?raw=true"
         },
         {
             "name": "Sin & Sacrifice-PJNpRwatx9w.mp4",
-            "path": "music_o/videos/Sin & Sacrifice-PJNpRwatx9w.mp4",
-            "size": 10.380790784
+            "path": "o/videos/Sin & Sacrifice-PJNpRwatx9w.mp4",
+            "size": 10.380790784,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Sin & Sacrifice-PJNpRwatx9w.mp4?raw=true"
         },
         {
             "name": "The Residents, my work is so behind-Xy-QjrmOeKc.mp4",
-            "path": "music_o/videos/The Residents, my work is so behind-Xy-QjrmOeKc.mp4",
-            "size": 3.0912040960000002
+            "path": "o/videos/The Residents, my work is so behind-Xy-QjrmOeKc.mp4",
+            "size": 3.0912040960000002,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/The Residents, my work is so behind-Xy-QjrmOeKc.mp4?raw=true"
         },
         {
             "name": "That Was Just Your Life-ptU5ZKAwLxk.mp4",
-            "path": "music_o/videos/That Was Just Your Life-ptU5ZKAwLxk.mp4",
-            "size": 19.204036608000003
+            "path": "o/videos/That Was Just Your Life-ptU5ZKAwLxk.mp4",
+            "size": 19.204036608000003,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/That Was Just Your Life-ptU5ZKAwLxk.mp4?raw=true"
         },
         {
             "name": "Orquesta La Masacre - Dolor Esquina Miseria-YYGd2qamxCs.mp4",
-            "path": "music_o/videos/Orquesta La Masacre - Dolor Esquina Miseria-YYGd2qamxCs.mp4",
-            "size": 12.796445696000001
+            "path": "o/videos/Orquesta La Masacre - Dolor Esquina Miseria-YYGd2qamxCs.mp4",
+            "size": 12.796445696000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Orquesta La Masacre - Dolor Esquina Miseria-YYGd2qamxCs.mp4?raw=true"
         },
         {
             "name": "The Growlers - One Million Lovers-59CZt1xsh5s.mp4",
-            "path": "music_o/videos/The Growlers - One Million Lovers-59CZt1xsh5s.mp4",
-            "size": 26.012879872000003
+            "path": "o/videos/The Growlers - One Million Lovers-59CZt1xsh5s.mp4",
+            "size": 26.012879872000003,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/The Growlers - One Million Lovers-59CZt1xsh5s.mp4?raw=true"
         },
         {
             "name": "La Arrolladora Banda El Limón De René Camacho - Sabor A Caldo (Lyric Video)--HMdaKUN8Gk.mp4",
-            "path": "music_o/videos/La Arrolladora Banda El Limón De René Camacho - Sabor A Caldo (Lyric Video)--HMdaKUN8Gk.mp4",
-            "size": 4.333287424
+            "path": "o/videos/La Arrolladora Banda El Limón De René Camacho - Sabor A Caldo (Lyric Video)--HMdaKUN8Gk.mp4",
+            "size": 4.333287424,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/La Arrolladora Banda El Limón De René Camacho - Sabor A Caldo (Lyric Video)--HMdaKUN8Gk.mp4?raw=true"
         },
         {
             "name": "Transplants - Down In Oakland-olFx609-g7Q.mp4",
-            "path": "music_o/videos/Transplants - Down In Oakland-olFx609-g7Q.mp4",
-            "size": 4.55469056
+            "path": "o/videos/Transplants - Down In Oakland-olFx609-g7Q.mp4",
+            "size": 4.55469056,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Transplants - Down In Oakland-olFx609-g7Q.mp4?raw=true"
         },
         {
             "name": "Conjunto Primavera - Enamorado De Ti (Audio)-ttX-z6HLYgA.mp4",
-            "path": "music_o/videos/Conjunto Primavera - Enamorado De Ti (Audio)-ttX-z6HLYgA.mp4",
-            "size": 6.890328064
+            "path": "o/videos/Conjunto Primavera - Enamorado De Ti (Audio)-ttX-z6HLYgA.mp4",
+            "size": 6.890328064,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Conjunto Primavera - Enamorado De Ti (Audio)-ttX-z6HLYgA.mp4?raw=true"
         },
         {
             "name": "See you later alligator - Bill Haley and Comets-1Hb66FH9AzI.mp4",
-            "path": "music_o/videos/See you later alligator - Bill Haley and Comets-1Hb66FH9AzI.mp4",
-            "size": 15.315661824000001
+            "path": "o/videos/See you later alligator - Bill Haley and Comets-1Hb66FH9AzI.mp4",
+            "size": 15.315661824000001,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/See you later alligator - Bill Haley and Comets-1Hb66FH9AzI.mp4?raw=true"
         },
         {
             "name": "Pantera - Domination (Official Live Video)-aDACorIaxNw.mp4",
-            "path": "music_o/videos/Pantera - Domination (Official Live Video)-aDACorIaxNw.mp4",
-            "size": 29.183904768
+            "path": "o/videos/Pantera - Domination (Official Live Video)-aDACorIaxNw.mp4",
+            "size": 29.183904768,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/Pantera - Domination (Official Live Video)-aDACorIaxNw.mp4?raw=true"
         },
         {
             "name": "♰ Diego Verdaguer - El Secreto Callado ♰-rFOaUIt6Adc.mp4",
-            "path": "music_o/videos/♰ Diego Verdaguer - El Secreto Callado ♰-rFOaUIt6Adc.mp4",
-            "size": 6.114490368
+            "path": "o/videos/♰ Diego Verdaguer - El Secreto Callado ♰-rFOaUIt6Adc.mp4",
+            "size": 6.114490368,
+            "url": "https://github.com/circuitalmynds/music_o/blob/main/videos/♰ Diego Verdaguer - El Secreto Callado ♰-rFOaUIt6Adc.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 1011.5570585600004
 }
